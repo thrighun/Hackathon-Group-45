@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Python Django, 2+ years experience. Responsible for developing web applications using Python and Django framework. Collaborate with UX/UI designers to implement user-friendly interfaces. Write reusable, testable, and efficient code. Optimize applications for maximum speed and scalability. Participate in all phases of the software development lifecycle. Conduct unit and integration testing. Mentor junior developers and assist in their skill development.",
+  "industry": "Technology"
+}

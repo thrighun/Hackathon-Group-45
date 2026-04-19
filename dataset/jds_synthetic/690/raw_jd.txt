@@ -1,0 +1,4 @@
+{
+  "raw_jd": "AWS Solutions Architect, focused on building scalable and secure cloud infrastructure for the healthcare sector, 8+ years of experience required.",
+  "industry": "Healthcare"
+}

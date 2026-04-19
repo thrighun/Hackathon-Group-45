@@ -1,0 +1,4 @@
+{
+  "raw_jd": "React.js Developer, JavaScript, React 17+ experience, 3-6 years",
+  "industry": "Multinational Technology Provider"
+}

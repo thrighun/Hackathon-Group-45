@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Skill: Java, Spring Boot, React, AWS, PostgreSQL, Kafka. Designing and implementing web applications with a focus on user experience and performance. Collaborating with product managers and designers to translate business requirements into technical specifications. Extensive experience with RESTful APIs, microservices architecture, and security best practices. Developing and maintaining backend services, integrating with frontend components, and ensuring the overall system reliability. Familiarity with containerization and orchestration technologies such as Docker and Kubernetes. Working knowledge of CI/CD pipelines and automated testing frameworks. Strong understanding of SQL and NoSQL databases, especially PostgreSQL and MongoDB. Excellent debugging and performance tuning skills to optimize applications for scalability and responsiveness.",
+  "industry": "Information Technology"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Java Backend Developer with Eclipse Integration Experience, 6 years",
+  "industry": "Enterprise Software Development"
+}

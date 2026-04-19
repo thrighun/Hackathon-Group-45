@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Front-End Engineer specializing in Vue.js and Bootstrap, 4 years or more experience required. The role involves designing, developing, and maintaining high-performance web applications tailored for e-commerce platforms. You will work closely with product managers and designers to create intuitive user experiences, ensuring seamless navigation and functionality across devices. Responsibilities include conducting user testing, optimizing web performance, and implementing responsive design principles to enhance mobile accessibility. The ideal candidate will possess strong analytical skills and a passion for creating accessible web solutions.",
+  "industry": "E-commerce Technology"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Azure Cloud Architect, experience in designing cloud-native applications, 8+ years",
+  "industry": "Life Sciences and Healthcare"
+}

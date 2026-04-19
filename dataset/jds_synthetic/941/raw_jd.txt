@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Firmware Engineer with IoT Development Experience, 5-8 years",
+  "industry": "Multinational Technology Provider"
+}

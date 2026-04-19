@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Java J2EE Software Engineer, 3-6 years, Microservices Architecture",
+  "industry": "Information Technology"
+}

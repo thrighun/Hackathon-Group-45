@@ -1,0 +1,4 @@
+{
+  "raw_jd": "senior python engineer data processing",
+  "industry": "Information Technology and Services"
+}

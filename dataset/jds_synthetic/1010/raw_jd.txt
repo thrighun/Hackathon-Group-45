@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Individuals with deep expertise in creating and optimizing cloud-native applications and services, with a strong focus on frontend development and user interface design. Candidates should possess experience in utilizing serverless architectures, leveraging API integrations, and managing application performance in scalable environments. Responsibilities also include collaboration with product managers to translate business requirements into technical specifications, implementing best practices for user experience, and utilizing monitoring tools to enhance application metrics. Familiarity with responsive design principles and mobile-first development is essential.",
+  "industry": "Cloud Computing"
+}

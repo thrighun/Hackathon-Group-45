@@ -1,0 +1,10 @@
+Industry: Any Industry
+Job Title: JAVA J2EE developer
+Location: Arizona (Client Location)
+Country:
+India 
+Experience Required: 4 - 8 years
+Primary Skills: JAVA__J2EE__springboot__hibernate
+Secondary Skills: backend API
+Job Description: JAVA J2EE developer with backend API development experience
+Additional Requirements: None

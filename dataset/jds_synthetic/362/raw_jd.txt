@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack Developer with a focus on Azure, Machine Learning, and DevOps practices",
+  "industry": "Information Technology & Services"
+}

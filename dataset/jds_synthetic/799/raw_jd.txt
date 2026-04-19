@@ -1,0 +1,4 @@
+{
+  "raw_jd": "WELCOME\nWe are looking for a Senior Front-End Engineer proficient in Vue.js with a focus on building user-centric applications. Must have at least 5 years of experience in the tech industry.",
+  "industry": "Technology"
+}

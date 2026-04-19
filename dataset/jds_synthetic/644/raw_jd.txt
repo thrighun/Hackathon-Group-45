@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Full Stack Java Developer, 6-9 years, Experience with Microservices architecture is essential, proficiencies in Angular, Spring MVC, and REST APIs preferred.",
+  "industry": "Software Development"
+}

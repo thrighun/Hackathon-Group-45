@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are seeking a skilled Front-End Engineer with a focus on Angular to join our dynamic team at a leading technology solutions provider. In this role, you will be responsible for building engaging user interfaces and enhancing the functionality of our web applications. The ideal candidate should have a strong command of Angular, TypeScript, and modern web development practices. You will work closely with UX/UI designers and back-end developers to create intuitive applications, ensuring seamless integration and high performance. Participation in the agile development process, including sprint planning and code reviews, is essential.",
+  "industry": "Technology Solutions"
+}

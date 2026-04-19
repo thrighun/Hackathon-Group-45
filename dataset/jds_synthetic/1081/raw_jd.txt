@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Embedded Systems Software Engineer, specializing in IoT devices, 3-6 years experience required.",
+  "industry": "Internet of Things (IoT)"
+}

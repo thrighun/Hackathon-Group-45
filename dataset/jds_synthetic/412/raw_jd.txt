@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack JavaScript Developer with Node.js and Angular skills, 3-6 years of experience in building dynamic web applications for clients in the tech industry.",
+  "industry": "Technology"
+}

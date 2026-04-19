@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Lead Software Engineer specializing in Java-based solutions with 7+ years of experience, focusing on cloud-native development and API design. Proficient in building scalable applications and leveraging frameworks like Spring Cloud and Java EE.",
+  "industry": "Information Technology / Software Development"
+}

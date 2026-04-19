@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Front-End Developer specializing in Vue.js and Vuetify UI framework. Responsibilities include building visually appealing and interactive web applications that prioritize user experience. Collaborate closely with designers and product managers to establish project goals and timelines. Conduct thorough testing and debugging of applications to ensure cross-platform compatibility. Build reusable code and libraries for future use, contributing to continuous improvement of the development process. Engage in code reviews and contribute to team discussions to foster a culture of learning and innovation. Maintain and improve website performance and usability by implementing best coding practices. Document processes, methodologies, and project details for cross-team collaboration.",
+  "industry": "Technology"
+}

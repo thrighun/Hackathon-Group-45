@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Seeking a talented Automotive Systems Engineer with a minimum of 3 years of experience in integrated vehicle systems development. The ideal candidate will have expertise in areas such as Electrical Systems, Control Systems, and Vehicle Dynamics. Familiarity with software development for automotive applications, including experience in coding languages such as C/C++ or Python, is essential. The role requires knowledge of vehicle architecture, including communication protocols (CAN, LIN, Ethernet) and systems integration. Experience with simulation tools (MATLAB/Simulink) and diagnostic tools is a plus. Strong analytical skills and problem-solving capabilities are necessary for successful execution.",
+  "industry": "Automotive"
+}

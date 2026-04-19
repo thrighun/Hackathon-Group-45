@@ -1,0 +1,4 @@
+{
+  "raw_jd": "React Developer with a focus on Progressive Web Applications (PWAs), 3-6 years experience. We are seeking a talented React Developer to build engaging and high-performance Progressive Web Applications. The ideal candidate will work closely with UX/UI designers to translate designs into functional web applications. Responsibilities include optimizing applications for maximum speed and scalability, maintaining the codebase, and integrating APIs. The role requires strong collaboration with product managers to define features while ensuring best practices in code quality and testing. Candidates should have experience with state management libraries and be comfortable working in a dynamic Agile environment.",
+  "industry": "Technology"
+}

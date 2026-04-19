@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Frontend Engineer, specializing in Vue.js, with a focus on mobile-first web development. Must have minimum 5 years of experience in frontend frameworks.",
+  "industry": "Technology"
+}

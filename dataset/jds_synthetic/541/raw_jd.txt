@@ -1,0 +1,4 @@
+{
+  "raw_jd": "senior data engineer, cloud architecture, machine learning, data pipeline development",
+  "industry": "Information Technology / Data Solutions Provider"
+}

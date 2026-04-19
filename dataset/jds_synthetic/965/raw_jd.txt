@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are looking for a skilled QA Automation Engineer to join our dynamic team. Our company, a leader in the tech industry, specializes in creating innovative software solutions that enhance efficiency and drive success for our clients. We are committed to leveraging technology and human talent to produce exceptional results. In this role, you will be responsible for designing and implementing automated tests to ensure the functionality and performance of our software applications. Your work will be crucial in streamlining our testing process and enhancing product quality. If you have a strong coding background in test automation and a passion for delivering high-quality software, we encourage you to apply. We offer competitive salary packages, comprehensive benefits, and ample opportunities for professional growth. We are an equal opportunity employer and welcome diverse applicants to join our team.",
+  "industry": "Technology"
+}

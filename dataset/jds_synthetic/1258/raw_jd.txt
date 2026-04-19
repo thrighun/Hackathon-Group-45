@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Python Developer, 2+ years experience, primarily focused on web application development and data analysis.",
+  "industry": "Technology"
+}

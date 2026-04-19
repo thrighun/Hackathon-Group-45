@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Customer: MICROSOFT CORPORATION Band: E2.2 Location: NOIDA JD-> \u00b7 Design and implement performance testing strategies for new and existing features. \u00b7 Create and maintain load testing scripts while monitoring system performance and tracking performance metrics. \u00b7 Collaborate with development teams to identify potential bottlenecks and suggest improvements. \u00b7 Analyze test results and provide actionable insights to ensure optimal user experience. \u00b7 Work closely with product management to understand requirements and deliver quality feedback during the development cycle. \u00b7 Ensure adherence to best practices in both performance engineering and testing throughout the application lifecycle.",
+  "industry": "Technology"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Front-End Developer specializing in Vue.js and Nuxt.js. Responsible for building new features and optimizing existing components in a large-scale web application.",
+  "industry": "Technology"
+}

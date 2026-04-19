@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Seeking a dynamic Full Stack Developer with expertise in creating and enhancing web applications and services. The ideal candidate should have experience in JavaScript frameworks like React or Angular, along with a strong background in server-side technologies such as Java or Ruby on Rails. A keen interest in learning and applying modern web technologies, including Progressive Web Apps (PWAs) and DevOps practices, is essential.",
+  "industry": "Technology"
+}

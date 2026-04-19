@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Cloud Infrastructure Engineer with expertise in Terraform, AWS, and Docker. 5+ years of experience in cloud solutions.",
+  "industry": "Information Technology & Services"
+}

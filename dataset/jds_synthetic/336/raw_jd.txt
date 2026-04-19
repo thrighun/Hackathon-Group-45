@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Node.js Developer - Full Time\n\nWe are looking for a skilled Node.js Developer to join our dynamic team. You will be responsible for building scalable server-side applications and services that support our web and mobile platforms. You will collaborate closely with front-end developers and other team members to enhance the functionality and performance of our applications.",
+  "industry": "Software Development"
+}

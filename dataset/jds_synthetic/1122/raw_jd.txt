@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Developer specializing in Angular, with experience in developing responsive applications for eCommerce, at least 4 years of front-end web development experience.",
+  "industry": "Retail"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Cloud Compliance and Risk Analyst, 8 years experience \nResponsibilities include evaluating cloud environments for compliance with regulatory frameworks and industry standards. Analyze risks associated with cloud services and recommend mitigation strategies. Work closely with IT and security teams to implement compliance controls and ensure adherence to policies. Conduct compliance audits and assessments to identify gaps and provide actionable insights. Develop and maintain documentation related to compliance processes and controls. Provide training and support to teams regarding compliance best practices and requirements. Stay current with changes in regulations and standards that affect cloud compliance.",
+  "industry": "Technology"
+}

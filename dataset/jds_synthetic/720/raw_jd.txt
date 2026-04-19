@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Full Stack Java Developer, 5-8 years, Experience with cloud-native applications required, proficient in Angular, Spring Boot, and REST APIs development.",
+  "industry": "Multinational Technology Provider"
+}

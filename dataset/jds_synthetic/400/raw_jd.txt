@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are seeking a Senior AI/ML Solutions Architect to lead the design and implementation of advanced AI/ML systems for our clients. The ideal candidate will have significant experience in developing strategic AI solutions, including the creation of predictive models, natural language processing systems, and integrating machine learning algorithms into existing business frameworks. Responsibilities include assessing client needs, crafting tailored AI strategies, overseeing the implementation of scalable machine learning workflows, and collaborating with data science and engineering teams to ensure seamless integration into enterprise systems. A focus on optimizing model performance and ensuring compliance with data privacy regulations is crucial. Candidates should possess 5-15 years of experience in AI/ML architecture and application development.",
+  "industry": "Multinational Technology Provider"
+}

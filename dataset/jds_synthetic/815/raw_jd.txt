@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Lead Software Engineer specializing in Cloud Solutions with Node.js, Express, and MongoDB. 7+ years of experience required.",
+  "industry": "Information Technology & Services"
+}

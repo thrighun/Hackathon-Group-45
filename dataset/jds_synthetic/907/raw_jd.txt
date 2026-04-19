@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are seeking a talented Application Architect to lead the design and implementation of scalable enterprise-level applications. Candidates should have a robust background in architecting multi-tier applications, cloud services integration, and an understanding of security best practices in software development. The role requires collaborating closely with stakeholders to define technical requirements and oversee the development lifecycle. Ideal candidates will have between 7-12 years of experience in software architecture and cloud solutions.",
+  "industry": "Technology"
+}

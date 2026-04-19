@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are seeking an experienced Cloud Solutions Architect with a strong background in designing and implementing cloud-native applications and services. The ideal candidate should have a proven track record of creating innovative solutions that leverage container orchestration, microservices architecture, and serverless computing. The role requires the ability to collaborate with development teams to define and enforce best practices, create infrastructure as code, and ensure system scalability on major cloud platforms. The candidate should also have experience in enhancing system security within cloud environments and optimizing resource usage for cost efficiency.",
+  "industry": "Technology"
+}

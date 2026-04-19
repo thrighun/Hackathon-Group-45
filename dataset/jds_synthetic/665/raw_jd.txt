@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Junior Frontend Developer with React and Bootstrap, 1-2 years\n\nJoin our dynamic team as a Junior Frontend Developer specializing in React and Bootstrap. You will work closely with designers and backend developers to create responsive web applications for our clients in the technology sector. Your role will involve implementing user-friendly features and optimizing application performance while adhering to best practices in coding and design. This is an excellent opportunity for a motivated individual looking to grow their skills in an innovative environment.",
+  "industry": "Information Technology"
+}

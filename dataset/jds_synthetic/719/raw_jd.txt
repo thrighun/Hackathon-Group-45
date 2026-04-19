@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Firmware Developer with 1-5 years of experience in embedded systems for consumer electronics. Responsible for creating, optimizing, and maintaining firmware for a range of smart devices. Collaborate with hardware engineers to ensure seamless integration between firmware and hardware components. Diagnose and resolve firmware issues, enhancing performance and reliability. Prepare technical documentation for firmware design, implementation, and testing processes. Evaluate new tools and technologies to improve firmware development efficiency. Provide training and support to junior developers and technical staff.",
+  "industry": "Consumer Electronics"
+}

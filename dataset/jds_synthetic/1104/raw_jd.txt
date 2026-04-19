@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Web Application Engineer specializing in Vue.js and Bootstrap. The candidate will be responsible for building dynamic frontend applications that enhance user experience and drive engagement. Collaborate with product managers, designers, and backend services to define user-facing features while ensuring technical feasibility. Participate in the full application development lifecycle from ideation through deployment, constantly iterating to improve functionality and responsiveness. Monitor application performance, suggest optimizations, and troubleshoot issues promptly to ensure high availability and performance. Stay current with industry trends and emerging technologies to implement innovative solutions. Document application workflows, development processes, and user guides to facilitate stakeholder understanding.",
+  "industry": "Information Technology / Technology Solutions"
+}

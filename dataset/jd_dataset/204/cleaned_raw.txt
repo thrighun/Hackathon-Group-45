@@ -1,0 +1,2 @@
+Industry: Technology
+Python backend developer, fastapi, 2-4 years of experience

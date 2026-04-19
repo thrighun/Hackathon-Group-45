@@ -1,0 +1,4 @@
+{
+  "raw_jd": "data scientist, analytics engineer, predictive modeling, data pipeline design, real-time processing",
+  "industry": "Information Technology & Services"
+}

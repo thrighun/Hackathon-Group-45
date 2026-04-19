@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack Developer with React.js, Node.js, and Machine Learning integration experience. 5+ years in software development.",
+  "industry": "Information Technology & Services"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack JavaScript Developer with Node.js and Vue.js. Responsible for building and maintaining web applications that deliver high-quality user experiences. Collaborate closely with frontend and backend teams to design, implement, and optimize web solutions. Develop RESTful APIs and microservices to support application features and functionality. Conduct code reviews and provide constructive feedback to peers. Ensure code quality and maintainability by adhering to best practices and coding standards. Troubleshoot performance issues, resolve bugs, and implement enhancements. Stay informed about emerging technologies and industry trends to drive innovation within the team.",
+  "industry": "Information Technology & Services"
+}

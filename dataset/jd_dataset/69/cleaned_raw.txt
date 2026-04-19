@@ -1,0 +1,2 @@
+Industry: 
+Backend developer with Python, Fast API, SQLAlchemy Postgres . 5+ years

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Software Engineer specializing in Node.js and Angular with 6-9 years of experience. Responsible for developing highly responsive web applications and services. Work closely with UI/UX designers to translate wireframes and prototypes into high-quality code. Design and implement APIs that are efficient, reusable, and maintainable. Mentor junior developers and assist in code reviews. Troubleshoot and optimize application performance, ensuring scalability and reliability. Maintain up-to-date knowledge of current technology trends and propose improvements to the development process. Engage in all stages of the software development lifecycle, from planning and design to testing and deployment. Participate in sprint planning and retrospective meetings within an Agile framework.",
+  "industry": "Technology"
+}

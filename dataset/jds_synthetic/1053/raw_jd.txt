@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Cloud Solutions Architect specializing in Python, AWS, and Microservices. 5+ years",
+  "industry": "Information Technology / Cloud Computing"
+}

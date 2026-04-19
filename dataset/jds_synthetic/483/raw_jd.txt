@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Java AI Solutions Engineer, Machine Learning Integration, Cloud-Based Platforms, Automation, DevOps",
+  "industry": "Technology"
+}

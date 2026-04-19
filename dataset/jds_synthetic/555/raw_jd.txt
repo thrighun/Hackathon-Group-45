@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are looking for a seasoned Software Engineer specializing in microservices architecture and cloud-native application development. The ideal candidate will have a strong background in designing, implementing, and maintaining microservices that power scalable applications. Experience in service orchestration, API management, and containerized deployments is essential. You will collaborate with cross-functional teams to enhance application performance and reliability in a cloud environment. Candidates should possess 6-12 years of industry experience.",
+  "industry": "Technology"
+}

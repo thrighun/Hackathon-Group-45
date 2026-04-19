@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Looking for an Automotive Systems Integration Engineer with over 3 years of experience in systems architecture and integration within the automotive sector. Responsibilities include overseeing the integration of complex automotive systems, such as electrical, software, and mechanical components. Must have experience with system testing and validation methodologies. Proficiency in simulation tools and software, particularly in systems modeling environments like MATLAB/Simulink or similar platforms. Familiarity with automotive standards and regulations, including ISO 26262 for functional safety. Should have hands-on experience with diagnostics and troubleshooting in automotive electronics. A background in electrical engineering or computer engineering is preferred.",
+  "industry": "Automotive"
+}

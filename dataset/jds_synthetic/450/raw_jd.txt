@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are seeking a Lead Backend Engineer specializing in Java, Spring Boot, and MongoDB. The ideal candidate will have a minimum of 7 years of experience in backend development within an agile environment. Responsibilities include architecting and building scalable server-side applications, collaborating with cross-functional teams to develop innovative solutions, and integrating third-party services and APIs. You will also mentor junior developers, conduct code reviews, and ensure best practices in software development. Familiarity with CI/CD pipelines and cloud environments (particularly Azure) is essential, as well as experience in microservices and serverless architecture.",
+  "industry": "Information Technology & Services"
+}

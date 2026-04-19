@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Java Backend Developer - AI Integration and Data Processing, responsible for designing, implementing, and managing backend services using Java, with a focus on Spring Boot and microservices architecture. The role requires interaction with data scientists to facilitate the integration of machine learning models into backend workflows. Experience with NoSQL databases such as MongoDB and Redis is essential for handling large datasets. The candidate will also be tasked with ensuring data integrity and security protocols while maintaining optimal performance of services in a cloud environment. Collaboration with front-end developers to create seamless API experiences is a key aspect of the role. Additional responsibilities include troubleshooting production issues and contributing to team technical discussions.",
+  "industry": "Information Technology/IT Services"
+}

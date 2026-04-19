@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Front-End Engineer, 6+ years experience, React.js and TypeScript proficiency\nDevelop and implement dynamic user interfaces for e-commerce platforms using React.js.\nWork closely with backend developers to integrate RESTful APIs for seamless functionality.\nEnsure high performance, responsiveness, and quality of applications.\nCollaborate with product managers and designers to gather requirements and deliver innovative solutions.\nMaintain and improve existing web applications, ensuring they are updated with the latest technologies.\nConduct code reviews and mentor junior developers, fostering a culture of continuous learning.\nParticipate in Agile ceremonies and contribute to team planning and retrospectives.\nStay informed about industry trends to innovate and enhance user experience and application performance.",
+  "industry": "Retail"
+}

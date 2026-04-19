@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Embedded Software Engineer specializing in IoT Devices with Python and JavaScript Experience, 6-9 years",
+  "industry": "Consumer Electronics"
+}

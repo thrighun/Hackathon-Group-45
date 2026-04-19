@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are looking for a skilled AI Product Manager with significant experience in defining and driving the vision for AI-driven products. The ideal candidate should have a solid background in AI and machine learning, enabling them to translate technical features into product requirements and deliverables. Responsibilities include collaborating with engineering teams to prioritize AI development, conducting market research to identify trends, gathering customer feedback to inform product iterations, and ensuring alignment of AI products with overall business strategy. Ideal candidates should have experience in managing the lifecycle of AI products from ideation to deployment. Experience required: 5-10 years.",
+  "industry": "Multinational Technology Provider"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Developer specializing in Vue.js with a focus on mobile eCommerce solutions and Headless CMS integration. Responsible for creating responsive web interfaces optimized for mobile devices. Collaborate with designers to ensure pixel-perfect implementation of UI/UX concepts. Integrate payment gateways and third-party services to enhance the shopping experience. Optimize applications for performance, ensuring fast loading times and smooth interactions. Participate in agile development cycles and collaborate with backend teams on API integration. Maintain high standards of code quality through peer reviews and adherence to best practices.",
+  "industry": "E-commerce Technology Solutions"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Software Engineer, 5 years plus, Python Django Cloud Services",
+  "industry": "Multinational Technology Provider"
+}

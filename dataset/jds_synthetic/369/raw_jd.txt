@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Front-End Web Engineer, 4 years experience. Responsible for the development and maintenance of responsive web applications with a focus on user experience. Collaborate closely with UX/UI designers and backend teams to bring designs to life and ensure the functionality aligns with user needs. Optimize web applications for maximum speed and accessibility. Write high-quality, reusable code while adhering to coding standards. Conduct thorough testing and debugging to enhance application reliability. Keep abreast of emerging technologies and advocate for their integration when appropriate. Mentor junior developers and participate in knowledge-sharing sessions. Assist in the creation of technical documentation and user guides.",
+  "industry": "Retail Technology"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Spring Boot Developer with 3-6 years experience in building scalable web applications. Responsible for designing and implementing microservices architecture. Collaborate with product owners to gather requirements and translate them into technical specifications. Write clean, maintainable, and efficient code, while ensuring high-quality deliverables through thorough testing. Participate in Agile ceremonies and contribute to continuous improvement efforts. Troubleshoot production issues and enhance application performance. Stay informed about new technologies and best practices in software development.",
+  "industry": "Technology"
+}

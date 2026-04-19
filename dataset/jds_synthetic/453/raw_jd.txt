@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack Developer with React, Node.js, and Tailwind CSS\n\nJoin our dynamic tech team to build innovative web applications and services that enhance user experience and drive digital transformation. We are looking for a Full Stack Developer who is proficient in React, Node.js, and Tailwind CSS to contribute to our cutting-edge projects. You will be responsible for both front-end and back-end development, ensuring seamless integration and functionality. You will work closely with designers and product managers to create scalable, efficient, and user-friendly applications that meet our clients' needs.",
+  "industry": "Technology"
+}

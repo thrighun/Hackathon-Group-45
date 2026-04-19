@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Node.js Backend Developer with Microservices Architecture",
+  "industry": "Multinational Technology Solutions Provider"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Node.js backend engineer, Express.js, 3-5 years of experience with a focus on microservices architecture.",
+  "industry": "Technology"
+}

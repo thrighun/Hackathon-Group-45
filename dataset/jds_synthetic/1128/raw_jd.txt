@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Python Embedded Developer with 4-5 years experience in designing and implementing embedded systems for consumer electronics. Responsible for developing firmware and software solutions that enhance product features. Collaborate with product managers, designers, and hardware teams to gather and refine requirements. Write clean, maintainable code while adhering to industry standards. Conduct performance testing and optimization on various hardware platforms. Engage in troubleshooting and debugging processes to resolve technical issues. Stay updated on advancements in embedded systems and software development technologies.",
+  "industry": "Consumer Electronics"
+}

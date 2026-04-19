@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Front-End Software Engineer (Vue.js and Bootstrap) with a focus on building interactive web applications and enhancing user experience. Experience in performance optimization and accessibility standards will be a plus.",
+  "industry": "Information Technology / Web Development Solutions"
+}

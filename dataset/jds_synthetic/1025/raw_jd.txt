@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are looking for an experienced Front-End Engineer with expertise in Vue.js and Bootstrap to join our dynamic team. This position requires 3-6 years of experience in building high-quality web applications. The ideal candidate will be proficient in converting design specifications into functional user interfaces, ensuring mobile responsiveness and cross-browser compatibility. You will work closely with designers and back-end developers to create seamless user experiences while maintaining a clean and organized codebase.",
+  "industry": "Multinational Technology Provider"
+}

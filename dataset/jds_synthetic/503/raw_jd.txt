@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Software Developer specializing in Python and Django with a focus on Angular Frontend development. 3-6 years.",
+  "industry": "Multinational Technology Provider"
+}

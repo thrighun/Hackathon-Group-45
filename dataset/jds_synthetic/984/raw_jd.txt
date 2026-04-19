@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Developer with Vue.js, 2-4 years experience. As a Frontend Developer, you will design and implement engaging user interfaces for web applications using Vue.js. Collaborate closely with UI/UX designers and backend developers to create seamless user experiences. Develop reusable components and libraries to streamline development processes. Analyze and improve application performance and responsiveness. Participate in code reviews, and assist in troubleshooting and debugging issues in a timely manner. Stay informed about new technologies and frameworks to enhance development practices.",
+  "industry": "Technology"
+}

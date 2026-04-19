@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Front-End Engineer with SASS Expertise, 3-6 years\n\nWe are seeking a skilled Front-End Engineer who specializes in SASS to join our dynamic team. The ideal candidate will be responsible for designing and implementing user interfaces for our web applications while ensuring a seamless user experience. You will work closely with UI/UX designers and back-end developers to create responsive, high-performance web applications for our clients in the technology sector.",
+  "industry": "Technology"
+}

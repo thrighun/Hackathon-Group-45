@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack Developer with React and Node.js, 3-6 years experience. Looking for a Full Stack Developer to join our dynamic team in a rapidly evolving tech environment. The ideal candidate will work on both front-end and back-end technologies to deliver high-quality web applications.",
+  "industry": "Multinational Technology Provider"
+}

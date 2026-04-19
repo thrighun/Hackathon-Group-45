@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack Developer with Vue.js and Node.js, 2-4 years experience",
+  "industry": "Technology"
+}

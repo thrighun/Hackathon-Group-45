@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Job Summary: Data Scientist focusing on AI-Powered Conversational Systems with 4-6 years of experience. The role encompasses building and refining chatbots and virtual assistants using Natural Language Processing (NLP) and Machine Learning (ML) techniques. Candidates should have expertise in intent recognition, response generation, and multi-turn dialogue management. This position involves collaboration with product teams to enhance customer interaction through intelligent systems.",
+  "industry": "Artificial Intelligence"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are seeking a proactive Cloud Solutions Architect to join our innovative team. In this role, you will be responsible for designing and implementing scalable cloud infrastructures to support our clients' diverse needs. Collaborate with software engineers, operations teams, and clients to develop robust cloud applications and services. Ensure compliance with industry standards and best practices to maintain system integrity and security. Lead technical workshops and provide insights to enhance cloud adoption strategies. Monitor performance metrics and optimize cloud operations for cost efficiency.",
+  "industry": "Multinational Technology Provider"
+}

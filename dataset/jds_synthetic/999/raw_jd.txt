@@ -1,0 +1,4 @@
+{
+  "raw_jd": "1. Proficiency in SolidWorks or Autodesk Inventor\n2. Experience with 3D CAD modeling, assembly, and design validation\n3. Knowledge in Electrical Wiring and Integration Design for Automotive Applications\n4. Familiarity with Advanced Driver Assistance Systems (ADAS) and infotainment products\n5. Strong understanding of manufacturing processes including CNC machining, additive manufacturing, and injection molding\n6. Expertise in performing design simulations and analyses including FEA (Finite Element Analysis) and CFD (Computational Fluid Dynamics) evaluations.",
+  "industry": "Automotive Engineering"
+}

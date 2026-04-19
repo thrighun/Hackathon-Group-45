@@ -1,0 +1,4 @@
+{
+  "raw_jd": "C# .NET Developer, 3-6 years experience",
+  "industry": "Multinational Technology Provider"
+}

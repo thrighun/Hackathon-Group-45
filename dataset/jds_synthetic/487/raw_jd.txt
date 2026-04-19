@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Front-End Engineer with Angular, 3-6 years\n\nWe are looking for a skilled Front-End Engineer with expertise in Angular to join our dynamic team. The ideal candidate will have 3 to 6 years of hands-on experience in building scalable web applications and a strong understanding of modern web development practices. You will collaborate closely with back-end developers and designers to create seamless and user-friendly interfaces that enhance overall user experience. Your role will include optimizing the application's performance and ensuring cross-browser compatibility while adhering to best coding standards. You will also be responsible for mentoring junior developers and participating in code reviews to foster a collaborative work environment.",
+  "industry": "Technology Provider"
+}

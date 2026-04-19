@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Python, Embedded Systems Developer, 2+ years experience, responsible for designing and implementing software solutions for embedded platforms, utilizing Python and other relevant languages to develop efficient and reliable applications that interface with hardware components. The role involves collaborating with cross-functional teams to define specifications and requirements, performing software testing and debugging, and refining existing codebase for performance improvements. Candidates should have experience with microcontrollers, familiarity with hardware programming, and be adept at using version control systems. A solid understanding of software development life cycles and agile methodologies is essential.",
+  "industry": "Embedded Systems"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Firmware Development Engineer (C/C++) with 4-5 years experience required to design and implement firmware solutions for high-performance embedded systems. The successful candidate will work closely with the hardware design team to develop low-level software that interacts directly with hardware components, ensuring efficient operation and robust performance. Responsibilities include writing firmware for microcontrollers, testing and validating functionality through simulations and hardware-in-the-loop testing, and troubleshooting issues as they arise. The role also involves documenting design specifications and creating user manuals to support the deployment of firmware products in consumer electronics.",
+  "industry": "Consumer Electronics"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "1. Proficiency in SolidWorks or NX (Siemens) 2. Experience with 3D modeling, assemblies, and sheet metal design 3. Familiarity with Electrical Systems integration in automotive design 4. Experience in the design of automotive components like Brakes, Steering Systems, and Electrical Harnesses 5. Understanding of manufacturing processes including CNC machining, additive manufacturing, and injection molding 6. Knowledge of materials selection and their properties in automotive applications",
+  "industry": "Automotive"
+}

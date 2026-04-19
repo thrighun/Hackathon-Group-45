@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Developer, Angular, 4 years\nDevelop and enhance user-facing applications with Angular framework. Participate in the full application lifecycle from design to deployment. Conduct code reviews and optimize application performance for better user experience. Liaise with backend developers to integrate APIs and ensure seamless data flow. Apply best practices for mobile-first and responsive design. Work in an agile environment and contribute to sprint planning and retrospectives. Keep abreast of new technologies and suggest improvements to development processes.",
+  "industry": "Multinational Technology Provider"
+}

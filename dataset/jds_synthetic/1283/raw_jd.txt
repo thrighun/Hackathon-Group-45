@@ -1,0 +1,4 @@
+{
+  "raw_jd": "data scientist ai product specialist",
+  "industry": "Technology"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack JavaScript Developer with Node.js and Express, 3-6 years of experience",
+  "industry": "Multinational Technology Provider"
+}

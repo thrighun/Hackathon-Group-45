@@ -1,0 +1,4 @@
+{
+  "raw_jd": "employee engagement analysis, predictive analytics, workforce modeling, strategic workforce planning",
+  "industry": "Multinational Technology Provider"
+}

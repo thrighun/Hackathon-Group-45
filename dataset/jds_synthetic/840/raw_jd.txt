@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack Java Developer, Microservices, 3+ years\n\nWe are seeking a Full Stack Java Developer with a focus on Microservices architecture. The ideal candidate will have experience in both back-end and front-end development, capable of creating robust and scalable applications.\n\nResponsibilities include designing, developing, and deploying Java applications using Spring Boot and microservices architecture. You will also work on integrating user-facing elements with server-side logic.\n\nCollaboration with cross-discipline teams to define application requirements and usability features is essential. You will conduct thorough testing and troubleshooting of applications, ensuring optimal performance and security. Participation in agile development methodologies is a key component of this role.",
+  "industry": "Software Development"
+}

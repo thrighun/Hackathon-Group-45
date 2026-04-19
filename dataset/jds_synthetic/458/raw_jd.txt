@@ -1,0 +1,4 @@
+{
+  "raw_jd": "javascript developer, agile methodology, web applications",
+  "industry": "Technology"
+}

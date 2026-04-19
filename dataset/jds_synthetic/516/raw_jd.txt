@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack JavaScript Developer with Node.js and Vue.js, 3-6 years. The ideal candidate will be responsible for designing and implementing end-to-end solutions for web applications while collaborating with cross-functional teams. You will work on both the front-end and back-end, ensuring seamless integration and optimal performance. Your role involves creating RESTful APIs, managing databases, and enhancing user interfaces to deliver a rich user experience. You should have experience with agile methodologies and an understanding of cloud platforms. Knowledge of testing frameworks is an advantage. Continuous learning and adaptation to new technologies will be expected.",
+  "industry": "Technology Provider"
+}

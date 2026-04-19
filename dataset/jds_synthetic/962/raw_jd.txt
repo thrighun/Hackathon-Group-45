@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are looking for a talented Frontend Web Developer specializing in React to join our dynamic team! In this role, you will focus on crafting user-friendly web applications using React frameworks, optimizing performance, and ensuring an exceptional user experience. You will work closely with UI/UX designers, backend developers, and product managers to bring innovative web solutions to life.\n\nAs a Frontend Web Developer, your responsibilities will involve creating responsive web designs, implementing interactive features, and maintaining high standards of code quality. You'll also need to perform rigorous debugging and collaborate on feature enhancement projects. Additionally, you will be expected to advocate for best practices in frontend development and contribute to the overall technical strategy of the team.",
+  "industry": "Technology"
+}

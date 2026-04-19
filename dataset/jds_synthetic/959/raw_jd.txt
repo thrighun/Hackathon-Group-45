@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Join our team as a Cloud Solutions Architect! \nYou will be responsible for designing and implementing innovative cloud infrastructures that ensure optimal performance and scalability. Your role will involve collaborating with stakeholders to assess business needs and devise strategic cloud adoption plans. You will also troubleshoot and optimize cloud environments, ensuring high availability and security. In addition, you'll mentor junior team members and provide support during the deployment process. Stay ahead of technology trends to recommend enhancements that drive efficiency.",
+  "industry": "Multinational Technology Provider"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Node.js, Express, Cloud Developer, 6 years, API Development",
+  "industry": "Software Development"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Embedded Software Engineer - Python & Linux, with 4-6 years experience, location Hyderabad or Secunderabad",
+  "industry": "Technology"
+}

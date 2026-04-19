@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Engineer, Vue.js, Bulma CSS, 3-6 years experience",
+  "industry": "Multinational Technology Provider"
+}

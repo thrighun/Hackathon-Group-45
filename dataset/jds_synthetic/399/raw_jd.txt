@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Developer with Vue.js, 3-6 years experience. Responsible for creating dynamic user interfaces and enhancing web application performance using Vue.js. Collaborate with designers and backend developers to implement responsive designs. Utilize modern JavaScript frameworks and libraries to optimize application functionality. Participate in code reviews and maintain documentation. Engage with clients to gather feedback and iterate on features. Stay informed about new tools and technologies within the frontend development space.",
+  "industry": "Multinational Technology Provider"
+}

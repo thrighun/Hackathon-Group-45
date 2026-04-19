@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Job Title: Technical Project Manager\n        Location: Bengaluru\n        Country: India\n        Experience Required: 6 - 10 years\n        \n        Primary Skills: ReactJS\n        Secondary Skills: Project Management, Agile\n        \n        Job Description:\n        To oversee the technical aspects of project execution, ensuring that the development team adheres to timelines and project specifications, while also fostering collaboration between stakeholders and teams.",
+  "industry": "Technology"
+}

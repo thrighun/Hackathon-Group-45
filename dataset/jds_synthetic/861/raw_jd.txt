@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Software Engineer - AI-Driven Solutions, mobile applications, Agile, API integration, big data management",
+  "industry": "Multinational Technology Solutions Provider"
+}

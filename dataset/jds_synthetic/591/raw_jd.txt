@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Frontend Engineer specializing in Vue.js with Bootstrap framework, 6 years or more experience in web application development in a fast-paced environment. Responsible for designing and building intricate user interfaces, ensuring mobile responsiveness and cross-browser compatibility. Collaborate with product managers and designers to translate user requirements into functional and efficient code. Utilize performance monitoring tools to optimize application load times and user experience. Mentor junior developers and lead regular knowledge-sharing sessions to enhance team skills. Forge strong partnerships with backend engineers to ensure seamless integration of services and APIs. Remain informed on emerging trends in web development and advocate for the adoption of new technologies and framework enhancements.",
+  "industry": "Information Technology"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Job Title: Technical Architect\n        Location: Bengaluru\n        Country: India\n        Experience Required: 7 - 10 years\n        \n        Primary Skills: Node.js, Cloud Technologies\n        Secondary Skills: Microservices, DevOps\n        \n        Job Description:\n        To design and oversee the implementation of high-quality software architecture in line with client requirements while ensuring scalability and performance.",
+  "industry": "Technology"
+}

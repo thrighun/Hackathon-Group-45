@@ -1,0 +1,4 @@
+{
+  "raw_jd": "HCLTech is seeking a motivated and detail-oriented Software Quality Assurance Lead who is passionate about delivering exceptional software products. The ideal candidate will have experience in performance testing and usability testing, with the ability to lead a team of testers in various projects while ensuring adherence to quality standards. This role requires collaboration with development teams to define testing requirements and strategies. You will play a key role in maintaining test plans, executing test cases, and reporting on the quality benchmarks for software releases. The Software Quality Assurance Lead will ensure timely delivery of quality software by managing the testing process and providing guidance to junior testers.",
+  "industry": "Technology"
+}

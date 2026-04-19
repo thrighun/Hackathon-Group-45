@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Job Title: Backend Software Engineer \u2013 Node.js & Cloud Services\nLocation: N/A\nCountry: United States\nExperience Required: 5+ years\n\nPrimary Skills: Node.js, Cloud Computing, REST APIs\nSecondary Skills: MongoDB, GraphQL\n",
+  "industry": "Technology"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "<p>Greetings!</p><h1>Join Our Team as a Data Analyst!</h1><p>We are seeking an innovative Data Analyst to transform our data into actionable insights. Your role will be to analyze complex datasets and help drive strategic decisions within our organization. If you possess a strong analytical mindset and a passion for technology, we want to hear from you!</p><br>Apply now!</p>",
+  "industry": "Multinational Technology Provider"
+}

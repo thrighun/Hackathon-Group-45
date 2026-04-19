@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Python, Linux, Embedded Software Engineer, 2+ years experience. Design and develop software solutions for embedded systems in industrial automation applications. Collaborate with cross-functional teams to define software requirements and specifications. Implement software algorithms and optimize performance for embedded devices. Conduct testing and validation of software components to ensure they meet functional and performance standards. Support deployment and troubleshooting of software in field applications. Maintain thorough documentation for software design and process improvements. Stay informed about advancements in embedded software technologies and methodologies.",
+  "industry": "Industrial Automation"
+}

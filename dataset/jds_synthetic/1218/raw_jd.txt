@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Java Software Engineer \u2013 Intelligent Systems Development. Responsibilities include designing, developing, and implementing advanced intelligent systems using Java technologies. Collaborate with data scientists to deploy machine learning models into production and enhance system capabilities. Implement RESTful APIs and integrate with various external services to support data-driven applications. Optimize application performance and ensure system reliability in a cloud environment. Engage in code quality assurance through unit testing and peer reviews. Work closely with cross-functional teams to gather requirements and translate them into technical specifications. Leverage SQL databases for data persistence and retrieval while ensuring data integrity and security.",
+  "industry": "Information Technology/IT Services"
+}

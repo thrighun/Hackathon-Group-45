@@ -1,0 +1,4 @@
+{
+  "raw_jd": "React, Node.js, Machine Learning Integration Developer, 4+ years\n\nJoin our innovative technology firm as a React and Node.js Developer with a focus on machine learning integration. You will be responsible for designing and implementing user-friendly applications that leverage artificial intelligence to deliver cutting-edge solutions. Collaborate with data scientists and engineers to incorporate machine learning models into web applications, ensuring seamless user experiences. Participate in the full software development lifecycle, including concept, design, testing, and deployment, while continually optimizing the performance of applications. Maintain code quality through rigorous testing and peer reviews, and stay abreast of advancements in AI technologies to enhance application capabilities.",
+  "industry": "Technology Provider"
+}

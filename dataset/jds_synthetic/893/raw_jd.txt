@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Customer: MICROSOFT CORPORATION\nBand: E2.2\nLocation: NOIDA\nJD->\n\u00b7 Lead the development and maintenance of performance testing strategies and frameworks.\n\u00b7 Create and execute performance test scripts using appropriate tools and frameworks to identify system bottlenecks.\n\u00b7 Collaborate with development and operations teams to gather performance metrics and analyze system behavior under various load conditions.\n\u00b7 Document and communicate performance test results and recommendations to stakeholders.\n\u00b7 Ensure adherence to testing best practices and contribute to process improvements in performance testing.\n\u00b7 Mentor junior team members in performance testing tools and methodologies.",
+  "industry": "Technology - Multinational Corporation"
+}

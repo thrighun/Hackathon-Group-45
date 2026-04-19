@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Data Engineer with 4 to 6 years of experience. Proficient in Python, SQL, and data pipeline construction. Knowledge of AI/ML frameworks is a plus.",
+  "industry": "Technology Solutions"
+}

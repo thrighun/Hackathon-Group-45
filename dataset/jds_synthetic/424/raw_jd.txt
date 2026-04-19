@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Engineer with Angular and Machine Learning experience. 4+ years",
+  "industry": "Information Technology & Services"
+}

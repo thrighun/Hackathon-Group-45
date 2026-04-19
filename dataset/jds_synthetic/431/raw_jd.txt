@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Machine Learning Engineer / AI Specialist responsible for designing, building, and deploying scalable machine learning systems. Engage with business stakeholders to define project scopes and objectives. Construct and optimize data pipelines to ensure efficient data flow and processing. Identify and implement innovative machine learning techniques to enhance existing products. Evaluate model performance and iterate based on feedback and testing results. Collaborate with software engineers to integrate models into production environments. Participate in code reviews and contribute to team knowledge sharing by documenting systems and processes.",
+  "industry": "Technology"
+}

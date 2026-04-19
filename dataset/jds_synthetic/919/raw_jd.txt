@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack Developer specializing in React and Node.js with an emphasis on serverless architecture and design systems. Responsible for building and optimizing web applications that deliver an intuitive user experience while adhering to best practices in coding and design. Work closely with product managers, designers, and other developers to gather requirements and implement innovative solutions. Involved in both front-end and back-end development, creating RESTful APIs, managing databases, and deploying applications on cloud platforms. Ensure high performance and responsiveness of applications by optimizing both client and server-side operations. Participate actively in code reviews, pair programming, and team retrospectives to foster a culture of continuous improvement and learning.",
+  "industry": "Technology"
+}

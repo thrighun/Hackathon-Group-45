@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Software Architect, 6 years plus, Node.js Cloud Solutions",
+  "industry": "Multinational Technology Provider"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack Developer with expertise in Java and Angular, 3-6 years experience. Responsible for developing, enhancing, and maintaining web applications, collaborating with product managers and UI/UX designers to deliver user-friendly solutions. Utilize Java and Angular frameworks to create responsive and efficient applications, focusing on both client-side and server-side development. Conduct thorough testing and debugging to ensure high performance and quality of applications. Assist in improving application architecture and implementing new features based on customer feedback. Stay current with emerging technologies and contribute to team knowledge sharing sessions. Participate in agile development processes with sprint planning and retrospective meetings.",
+  "industry": "Technology"
+}

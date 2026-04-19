@@ -1,0 +1,4 @@
+{
+  "raw_jd": "React Developer with a focus on Mobile Applications, 4 years of experience, strong background in ecommerce development. Responsible for building and maintaining mobile-first web applications using React. Collaborate with product managers and designers to create intuitive and visually appealing interfaces. Implement state management solutions and enhance user experiences with optimized performance. Integrate payment gateways and dynamic content management systems. Participate in agile development processes, contributing to sprint planning and reviews. Work in tandem with backend teams to develop robust APIs that support mobile functionalities. Continuously learn and incorporate emerging technologies to drive innovation within the ecommerce sector.",
+  "industry": "Ecommerce"
+}

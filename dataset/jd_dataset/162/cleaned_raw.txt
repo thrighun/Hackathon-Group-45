@@ -1,0 +1,12 @@
+Industry: Any Industry
+Job Title:
+Project Lead 
+Location:
+Bengaluru 
+Country:
+India 
+Experience Required: 5 - 9 years
+Primary Skills: AngularJS
+Secondary Skills: N/A
+Job Description: To manage and ensure that the project schedules are adhered to as per the client specifications and deliveries are as per the time and quality standards.
+Additional Requirements: E2.2 ANgular JS - software engg

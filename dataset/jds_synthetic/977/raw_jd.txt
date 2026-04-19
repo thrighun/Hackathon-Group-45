@@ -1,0 +1,3 @@
+{
+  "raw_jd": "Full Stack Developer with a focus on Node.js and Vue.js. 4+ years experience in developing custom web applications for retail and eCommerce businesses."
+}

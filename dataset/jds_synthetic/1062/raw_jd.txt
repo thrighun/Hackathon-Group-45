@@ -1,0 +1,4 @@
+{
+  "raw_jd": "software engineer, mobile application development, backend integration, artificial intelligence, cloud computing, user experience design",
+  "industry": "Technology"
+}

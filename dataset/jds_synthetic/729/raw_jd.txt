@@ -1,0 +1,4 @@
+{
+  "raw_jd": "As a Talent Insights Analyst, you will leverage data analytics to drive talent acquisition strategies and improve employee retention rates. Your key responsibilities will include analyzing recruitment data to optimize hiring processes, conducting market research to identify talent trends, and utilizing advanced statistical techniques to forecast workforce needs. You will collaborate closely with recruitment teams to assess the effectiveness of employment branding and sourcing channels. Additionally, you will support the development of data-driven retention programs by analyzing turnover rates and employee satisfaction surveys.",
+  "industry": "Human Resources Consulting"
+}

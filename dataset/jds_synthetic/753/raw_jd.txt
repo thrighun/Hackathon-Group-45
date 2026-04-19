@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Cloud DevOps Engineer, 8 years\n\nAs a Cloud DevOps Engineer, you will be responsible for the deployment, management, and optimization of cloud infrastructure and applications on AWS. You will work closely with development and operations teams to enhance CI/CD pipelines, automate processes, and improve service reliability. Your role will require continuous monitoring of cloud environments and creating scripts to streamline operations. Engage with various stakeholders to gather requirements and implement infrastructure as code (IaC) methodologies. You will also provide support in incident response and ensure adherence to cloud security policies.",
+  "industry": "Cloud Computing"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Cloud Solutions Architect with a focus on enterprise applications and a minimum of 5 years of experience in cloud technologies.",
+  "industry": "Information Technology"
+}

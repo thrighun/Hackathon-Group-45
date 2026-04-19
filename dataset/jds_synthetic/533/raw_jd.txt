@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are looking for a skilled AI/ML Solutions Architect with a strong background in designing and implementing AI-driven solutions for diverse business needs. The ideal candidate will possess a deep understanding of machine learning algorithms, data analysis, and software development lifecycle. This role includes collaborating with stakeholders to define project scope, architecting robust AI systems, and ensuring seamless integration with existing infrastructure. You will oversee the deployment process and establish best practices for model governance, ensuring compliance with industry standards. Additionally, the architect will lead efforts to optimize system performance and provide technical mentorship to junior engineers.",
+  "industry": "Information Technology"
+}

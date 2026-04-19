@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Software Architect - Java and Cloud Technologies at TechNova Solutions. Location: Bangalore or Hyderabad. Responsibilities include architecting scalable software solutions, guiding the development team, and overseeing application deployment in cloud environments. Requires 5+ years of experience in Java environments, proficiency in cloud architecture, and strong communication and analytical skills. Optional: experience with CI/CD pipelines, NoSQL databases, and front-end technologies like Angular or React.",
+  "industry": "Information Technology"
+}

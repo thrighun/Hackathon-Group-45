@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Python Flask Developer, 1+ year experience working on web applications in a fast-paced environment.",
+  "industry": "Technology"
+}

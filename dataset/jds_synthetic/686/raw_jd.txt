@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Engineer, 4 years experience, online marketplace",
+  "industry": "Ecommerce"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Embedded Software Engineer specializing in C++ and Real-Time Systems with 5 years of experience in developing firmware for embedded devices.",
+  "industry": "Technology Provider"
+}

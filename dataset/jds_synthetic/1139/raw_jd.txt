@@ -1,0 +1,4 @@
+{
+  "raw_jd": "java development, frontend, react, aws, microservices, machine learning, cloud applications",
+  "industry": "Information Technology"
+}

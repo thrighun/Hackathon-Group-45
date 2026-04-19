@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Engineer with Vue.js and Bootstrap, 2-6 years\n\nWe are seeking a Frontend Engineer with expertise in Vue.js and Bootstrap to join our dynamic team. You will be responsible for creating engaging and intuitive web applications that provide an exceptional user experience. This role involves collaborating with designers and back-end developers to implement user-friendly features and ensuring the technical feasibility of UI/UX designs. You will be tasked with maintaining and optimizing the performance of existing applications while staying abreast of new technologies and industry trends. If you are passionate about front-end development and eager to contribute to innovative projects, we would love to meet you.",
+  "industry": "Technology Provider"
+}

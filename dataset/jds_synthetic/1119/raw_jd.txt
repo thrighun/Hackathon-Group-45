@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Node.js Application Architect at Tech Innovators. Location: Bangalore or Hyderabad. Responsibilities include architecting scalable applications, leading best practices for development, and integrating APIs using Node.js and Express.js. Requires 5+ years of experience in software development, deep understanding of microservices architecture, strong analytical and troubleshooting skills, and proficiency in Agile methodologies. Optional: knowledge of MongoDB, Redis, GraphQL, CI/CD practices, experience with Docker and Kubernetes.",
+  "industry": "Software Development"
+}

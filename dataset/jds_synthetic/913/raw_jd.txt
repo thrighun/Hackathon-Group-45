@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack JavaScript Developer with MERN Stack expertise, 2-6 years experience. Responsible for developing front-end and back-end solutions for web applications in a collaborative environment. Utilize MongoDB, Express.js, React, and Node.js to create robust applications. Work closely with UI/UX designers and product stakeholders to translate concepts into functional applications. Ensure code quality through best practices and perform unit testing on features. Participate in sprint planning and contribute to the overall architecture of the application. Debug and resolve issues in a timely manner, while implementing security measures to protect user data.",
+  "industry": "Multinational Technology Provider"
+}

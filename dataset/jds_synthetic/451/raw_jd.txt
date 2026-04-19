@@ -1,0 +1,4 @@
+{
+  "raw_jd": "AI Solutions Architect, Machine Learning Engineer, Cloud Technologies, Python, Data Engineering",
+  "industry": "Technology"
+}

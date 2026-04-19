@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Data Analyst, Exp should 8+ years and location is either Austin, TX or San Francisco, CA. The role focuses on data interpretation and strategy development based on insights derived from data analysis. Responsibilities include creating visual reports to present findings, collaborating with product teams to align analytics with user experience improvements, and identifying opportunities for operational efficiency through data metrics. The analyst will also be responsible for developing dashboards that monitor key performance indicators and provide actionable insights to management.",
+  "industry": "Technology"
+}

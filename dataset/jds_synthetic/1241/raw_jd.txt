@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Java Microservices Developer, 4-7 years, Experience with Kubernetes and Docker is a plus, familiarity with Angular or React, expertise in building APIs and integrating third-party services.",
+  "industry": "Multinational Technology Provider"
+}

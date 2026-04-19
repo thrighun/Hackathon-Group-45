@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Software Engineer specializing in Java Spring Boot and Angular, 6-9 years experience. You will be responsible for designing and developing enterprise-level applications while collaborating closely with cross-functional teams. Your role will involve optimizing application performance and integration with various backend services. You will also mentor junior developers and contribute to architectural improvements and best practices.",
+  "industry": "Technology"
+}

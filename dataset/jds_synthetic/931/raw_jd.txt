@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Job Title: Software Engineer - Cloud-Focused Development\nLocation: Remote\nCountry: United States\nExperience Required: 3+ years\nPrimary Skills: Cloud Computing, Node.js, Angular\nSecondary Skills: Docker, Kubernetes\n",
+  "industry": "Technology"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Python Software Engineer, Flask, 4-6 years experience. The role involves designing and implementing advanced backend systems for web applications, focusing on performance, security, and scalability. You will work closely with front-end developers and product teams to build APIs and data services. Your responsibilities include optimizing existing codebases, conducting code reviews, and mentoring junior developers. You will also participate in architectural discussions, ensuring best practices in software design are upheld. The role requires hands-on experience in database management, cloud services, and containerization technologies. Familiarity with Agile methodologies and DevOps practices is crucial.",
+  "industry": "Technology"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "API Integration Engineer with Node.js, Express, MongoDB. 4+ years.",
+  "industry": "Information Technology"
+}

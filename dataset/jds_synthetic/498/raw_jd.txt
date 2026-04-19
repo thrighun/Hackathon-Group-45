@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Front-End Developer with Vue.js and Bootstrap. 4+ years experience in digital marketing and web applications.",
+  "industry": "Information Technology / Digital Marketing Solutions"
+}

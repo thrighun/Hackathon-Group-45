@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack Developer specialized in Vue.js and Bootstrap\nThe role involves designing and developing user-friendly web applications for a fast-paced retail environment. You will work closely with cross-functional teams, including UX/UI designers and backend developers, to ensure seamless integration and optimal performance. Your responsibilities will include developing new features, optimizing existing code, and conducting testing to promote high-quality deliverables. The position requires a problem-solver who can effectively juggle multiple priorities while maintaining a keen eye for detail to enhance user experience.",
+  "industry": "Retail"
+}

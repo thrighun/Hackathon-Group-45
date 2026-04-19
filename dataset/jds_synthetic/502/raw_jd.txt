@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Candidates with strong expertise in AI/ML model development, focusing on predictive analytics and decision-making support systems. Responsibilities include designing, developing, and optimizing machine learning algorithms for diverse datasets, implementing models for real-time data processing and analysis, collaborating with data scientists and business analysts to understand user needs, and ensuring models are scalable and efficient in production environments. The role requires continuous evaluation and adjustment of models based on performance metrics and business feedback, as well as the integration of advanced analytics into existing software solutions.",
+  "industry": "Technology"
+}

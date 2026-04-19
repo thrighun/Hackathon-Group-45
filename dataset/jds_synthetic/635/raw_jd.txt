@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are looking for a Data Center Operations Manager to oversee the performance and reliability of our data center facilities. The ideal candidate will ensure effective management of our data center operations, including power management, cooling systems, and physical security. You will coordinate with IT teams to maintain hardware integrity and optimize data center capacity. This role requires a proactive approach to managing infrastructure and ensuring adherence to health and safety standards.",
+  "industry": "Multinational Technology Provider"
+}

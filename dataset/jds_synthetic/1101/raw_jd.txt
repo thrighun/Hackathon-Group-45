@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Developer specializing in Vue.js and Nuxt.js. Responsible for designing and enhancing user interfaces for web applications, ensuring they are visually appealing and highly functional. Collaborate with cross-functional teams to gather requirements, define project scope, and deliver high-quality solutions. Implement responsive design techniques to ensure applications work seamlessly across devices. Develop reusable and modular components and libraries that can be shared across projects. Conduct user testing and gather feedback to refine application features. Troubleshoot and optimize application performance while following best practices in coding and design. Maintain thorough documentation for all development processes and assist in the onboarding of new team members.",
+  "industry": "Information Technology & Services"
+}

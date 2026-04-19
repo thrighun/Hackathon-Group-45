@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Individuals with strong expertise in developing and implementing cloud-based microservices architectures, focusing on enhancing application performance and reliability. Candidates should have hands-on experience with frontend technologies and be proficient in collaborating with cross-functional teams to deliver user-centric solutions. Experience with API development and integration is essential, along with a solid understanding of data storage solutions suitable for large-scale applications.",
+  "industry": "Technology"
+}

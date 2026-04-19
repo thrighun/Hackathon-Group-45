@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Lead API Engineer specializing in Django, RESTful Services, and MySQL with 6+ years of experience. Responsible for designing and implementing advanced back-end solutions that power web applications and services. Work closely with product teams to define and optimize API specifications and documentation. Manage database schemas and perform load testing to ensure performance and reliability. Act as a technical lead in code review sessions and help build a strong engineering culture within the team. Proficient in developing secure, maintainable code and ensuring compliance with industry standards.",
+  "industry": "Information Technology / Software Development"
+}

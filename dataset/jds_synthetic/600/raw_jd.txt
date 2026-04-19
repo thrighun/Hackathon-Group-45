@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Developer (Vue.js) with a focus on component architecture, 4 years of experience or more",
+  "industry": "Technology Provider"
+}

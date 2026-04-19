@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are looking for an AI Solutions Architect with significant experience in designing and implementing advanced AI systems. The ideal candidate will focus on creating scalable architecture for AI applications, collaborating with teams to identify use cases, and ensuring seamless integration of AI solutions across various platforms. This role requires expertise in the deployment of machine learning pipelines, along with the ability to analyze and interpret complex datasets to drive actionable insights. The candidate should also be comfortable presenting technical concepts to non-technical stakeholders. Experience required: 3-10 years.",
+  "industry": "Technology"
+}

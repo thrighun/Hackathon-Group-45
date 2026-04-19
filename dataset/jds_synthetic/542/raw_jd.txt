@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Mid-Level Frontend Engineer, working knowledge of Vue.js, Bootstrap, minimum 3 years experience",
+  "industry": "Web Development"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are seeking a talented User Interface (UI) Designer to join our innovative design team. In this role, you will focus on enhancing the aesthetic and interactive elements of our web applications. Your primary responsibility will be to create visually appealing interfaces that improve usability and provide a seamless user experience.\n\nIf you are passionate about design, technology, and user satisfaction, this position could be a great fit for you. We value creativity and technical skills, and we encourage you to stay abreast of design trends and technologies that can elevate our digital products.\n\nUltimately, your goal will be to ensure that our web applications are not only functional but also engaging and enjoyable for users.",
+  "industry": "Technology"
+}

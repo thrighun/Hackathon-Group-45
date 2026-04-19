@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Python Backend Developer, 2+ years experience",
+  "industry": "Technology"
+}

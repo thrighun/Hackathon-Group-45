@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Embedded Software Architect with experience in Python, Java, and low-level hardware interactions, 8+ years",
+  "industry": "Technology"
+}

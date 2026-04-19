@@ -1,0 +1,4 @@
+{
+  "raw_jd": "senior software engineer, backend systems, node.js, express, mongodb, aws, ai solutions, team leadership",
+  "industry": "Information Technology"
+}

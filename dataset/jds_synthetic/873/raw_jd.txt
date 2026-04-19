@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Engineer specializing in Vue.js and Bootstrap. Prior experience in component migration and integrating real-time functionalities is an advantage.",
+  "industry": "Information Technology / Web Development Solutions"
+}

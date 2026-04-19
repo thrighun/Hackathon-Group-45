@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Cloud Solutions Architect, with a focus on hybrid cloud implementations, 8+ years",
+  "industry": "Life Sciences and Healthcare"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Embedded Software Engineer with a focus on C++ and RTOS environments, 7 years experience. Responsible for developing and optimizing embedded software solutions for advanced technology systems. Collaborate with hardware engineers to design and validate system architecture. Conduct performance analysis and troubleshooting of real-time applications. Lead software integration efforts and ensure compliance with industry standards. Mentor junior developers and oversee code quality through regular reviews and audits.",
+  "industry": "Technology Provider"
+}

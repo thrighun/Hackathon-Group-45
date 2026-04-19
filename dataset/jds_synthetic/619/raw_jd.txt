@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Software Engineer - Full Stack Developer, 6 years experience, Microservices architecture expertise.",
+  "industry": "Multinational Technology Provider"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Engineer specializing in Vue.js and Styled Components. Responsible for crafting intuitive user interfaces and enhancing web application performance within a collaborative team environment. Collaborate closely with product managers and backend developers to create seamless integration between front-end and back-end systems. Participate in the design and architecture discussions, contributing to the overall user experience and functionality of applications. Utilize modern tools and frameworks to optimize applications for speed and responsiveness, ensuring cross-browser compatibility and adherence to web standards. Engage in Agile methodologies to iterate on product features and incorporate user feedback promptly. Document development processes, share knowledge, and mentor junior developers to foster a learning culture within the team.",
+  "industry": "Information Technology / Technology Solutions"
+}

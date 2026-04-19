@@ -1,0 +1,4 @@
+{
+  "raw_jd": "IoT Firmware Engineer specializing in Low-Power Devices with 4 years experience. Responsible for designing and implementing firmware for Internet of Things (IoT) devices using embedded C and C++. Work collaboratively with product management and hardware engineering teams to define functionality and ensure compatibility. Optimize firmware for energy efficiency, responsiveness, and user experience. Diagnose and debug firmware issues in resource-constrained environments. Engage in architecture discussions and suggest improvements to enhance device capabilities. Conduct thorough testing of firmware and maintain comprehensive documentation for future reference.",
+  "industry": "Internet of Things (IoT)"
+}

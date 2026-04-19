@@ -1,0 +1,4 @@
+{
+  "raw_jd": "JavaScript Web Application Developer specializing in dynamic content creation and user interaction.",
+  "industry": "Technology"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Lead Software Engineer specializing in Cloud-Based Solutions. Must have 7 years of experience in software development. Proficiency in .NET technologies with a focus on cloud-native applications is essential. Familiarity with serverless architecture is required. Strong background in Agile methodologies and leading teams.",
+  "industry": "Information Technology & Services"
+}

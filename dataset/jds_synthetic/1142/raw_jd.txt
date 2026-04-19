@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Job Title: Business Intelligence Analyst Department: Information not provided Location: San Francisco, CA or Austin, TX Objective: To transform data into meaningful insights that drive strategic business decisions and improve operational performance. Primary Responsibilities: 1. Gather and analyze business requirements to develop comprehensive reporting and analytics solutions. 2. Design and maintain automated reporting systems to track key performance indicators (KPIs). 3. Collaborate with business stakeholders to identify opportunities for process improvements based on data analysis. 4. Develop dashboards and visualizations that effectively communicate data-driven insights to non-technical audiences. 5. Conduct training sessions and workshops for teams on how to utilize data tools and interpret analytics reports. 6. Monitor industry trends and best practices in business intelligence and analytics.",
+  "industry": "Technology"
+}

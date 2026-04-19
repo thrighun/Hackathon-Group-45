@@ -1,0 +1,4 @@
+{
+  "raw_jd": "junior frontend developer, 1-2 years experience in Vue.js, responsible for creating dynamic user interfaces for web applications. Work closely with design teams to implement responsive layouts and enhance user engagement. Assist in translating design mockups into functional code while ensuring cross-browser compatibility. Collaborate with back-end developers to integrate APIs and handle data flow between server and client. Participate in debugging and optimizing existing applications for better performance. Contribute to team meetings by sharing ideas for improving development processes and application usability. Familiarity with version control systems and experience in agile methodologies is a plus.",
+  "industry": "Information Technology / Technology Solutions"
+}

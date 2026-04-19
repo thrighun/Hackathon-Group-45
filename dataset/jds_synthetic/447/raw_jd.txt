@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Full-Stack JavaScript Developer, React, Node.js, 6+ years",
+  "industry": "Technology"
+}

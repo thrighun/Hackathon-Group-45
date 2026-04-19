@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Firmware Engineer, 3+ years",
+  "industry": "Information Technology Services / Multinational Technology Provider"
+}

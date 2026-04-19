@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are looking for an experienced AI/ML Data Scientist focused on developing and optimizing machine learning models for predictive analytics in a corporate environment. This role involves designing innovative machine learning algorithms and data models that enhance decision-making processes. The ideal candidate will work on data modeling, feature engineering, and applying statistical methods to analyze large datasets. Experience with tools like TensorFlow, PyTorch, and experience in data visualization is essential. The candidate will also engage in regular assessments of model performance and conduct A/B testing to validate improvements. Strong proficiency in SQL and experience in handling datasets in cloud environments (e.g., AWS, Google Cloud) is required.",
+  "industry": "Technology"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are seeking a Front-End Engineer specializing in Vue.js and Nuxt.js. The ideal candidate will be responsible for designing interactive user interfaces and ensuring optimal performance across our web applications. You will collaborate closely with design teams to implement responsive designs and seamless user experiences. Additionally, you will work on integrating APIs and optimizing front-end code for efficiency and maintainability. Your role will also involve writing automated tests to ensure code quality and participating in agile ceremonies for project planning and review.",
+  "industry": "Information Technology & Services"
+}

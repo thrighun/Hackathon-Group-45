@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Node.js Backend Developer with Angular, 4-7 years experience. Responsible for designing, developing, and deploying scalable server-side applications. Work closely with front-end developers to integrate user-facing elements with server-side logic. Write clean, maintainable, and well-documented code while participating in code reviews. Rectify performance bottlenecks and troubleshoot production issues. Contribute to architectural decisions and enhance the performance, security, and reliability of the applications. Keep abreast of new technologies and tools to continually improve the development process.",
+  "industry": "Technology"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Node.js development, microservices, express, mongodb, aws, machine learning, data analytics",
+  "industry": "Information Technology"
+}

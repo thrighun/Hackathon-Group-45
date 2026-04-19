@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Python Developer, 3-6 years experience, responsible for designing and developing scalable web applications and data-driven solutions within a dynamic technology company. In this role, you will collaborate with cross-functional teams, participate in the full software development lifecycle, and ensure high-quality code deliverables.",
+  "industry": "Technology"
+}

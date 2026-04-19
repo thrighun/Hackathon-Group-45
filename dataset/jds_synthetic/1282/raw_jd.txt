@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Frontend Developer with Ecommerce Focus, 4+ years of experience, with at least 2 years in the ecommerce sector. Proficient in React, Redux, and TypeScript. Experience with responsive design and front-end performance optimization.",
+  "industry": "Retail"
+}

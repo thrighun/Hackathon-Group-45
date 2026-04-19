@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Embedded Software Engineer specializing in embedded systems, with experience in Python and real-time operating systems, 8+ years",
+  "industry": "Technology"
+}

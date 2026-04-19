@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Individuals with significant experience in AI/ML product management, focusing on the development and lifecycle management of AI-driven applications. This includes overseeing the deployment of intelligent data analytics tools, collaborating with engineering teams to ensure the refinement of machine learning models based on user feedback, and driving the integration of AI capabilities into existing product ecosystems. The role also involves defining product roadmaps, prioritizing features based on market needs, and ensuring that AI solutions comply with industry regulations and standards.",
+  "industry": "Technology and Software Development"
+}

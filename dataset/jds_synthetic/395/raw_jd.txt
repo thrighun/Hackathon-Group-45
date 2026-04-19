@@ -1,0 +1,4 @@
+{
+  "raw_jd": "java development, microservices, spring boot, mongodb, aws, ai solutions, data engineering",
+  "industry": "Information Technology / Multinational Technology Solutions Provider"
+}

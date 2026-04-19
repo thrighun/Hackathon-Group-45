@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Web Application Engineer 3 years\n\nAs a Web Application Engineer, you will focus on developing dynamic web applications using modern frameworks and technologies. This role requires a strong understanding of both frontend and backend technologies, with an emphasis on creating seamless user experiences and efficient server-side solutions. You will work closely with multidisciplinary teams to shape the product's direction and feature set, ensuring that the final product meets both technical specifications and user needs.",
+  "industry": "Information Technology / Technology Solutions"
+}

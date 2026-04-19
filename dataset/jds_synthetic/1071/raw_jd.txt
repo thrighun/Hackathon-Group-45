@@ -1,0 +1,4 @@
+{
+  "raw_jd": "1. Proficiency in SolidWorks or Autodesk Inventor\n2. Experience with 3D CAD modeling, including components, assemblies, and parametric design.\n3. Familiarity with Electrical Systems integration into automotive product design is a plus.\n4. Involvement in the design and development of automotive exterior components like bumpers, grilles, and lighting systems.\n5. Strong knowledge of manufacturing techniques such as injection molding, stamping, and CNC machining.\n6. Understanding of material properties and selection related to automotive applications.\n7. Experience with Finite Element Analysis (FEA) for product validation and optimization.",
+  "industry": "Automotive"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are looking for a skilled React Developer to join our dynamic team! As a React Developer, you will be responsible for creating user-friendly web applications by implementing cutting-edge React technologies. Your primary focus will be on developing and maintaining high-quality coding structures and dynamic single-page applications (SPAs) with modern JavaScript frameworks. Collaboration with UI/UX designers, backend engineers, and product managers will be essential to deliver exceptional software solutions that meet client needs. Additionally, you will analyze application performance and contribute to debugging processes to enhance the overall user experience.",
+  "industry": "Technology"
+}

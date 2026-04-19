@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Cloud Native Application Developer, 7 years",
+  "industry": "Multinational Technology Provider"
+}

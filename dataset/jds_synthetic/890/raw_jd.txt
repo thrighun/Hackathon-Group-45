@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack Developer with React and Node.js responsible for building and maintaining dynamic applications. Collaborate with cross-functional teams to design and develop solutions that enhance user experience. Manage both front-end and back-end development tasks, including database management and server-side scripting. Ensure applications are responsive and optimized for performance across platforms. Implement security measures to safeguard applications and user data. Write comprehensive documentation and perform code reviews to uphold coding standards. Engage in continuous learning to keep up with industry trends and best practices.",
+  "industry": "Information Technology & Services"
+}

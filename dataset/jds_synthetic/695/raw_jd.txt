@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Data Engineer - Analytics & AI Solutions. N/A. Information Technology / Multinational Technology Services. - Design and implement ETL processes to collect, transform, and store large datasets for analytics and machine learning. - Collaborate with data scientists and software engineers to create data pipelines that support advanced AI applications. - Develop scalable data architectures that facilitate data access and processing across the organization. - Monitor and optimize data workflows to ensure high performance and reliability. - Create and maintain data documentation, including flow diagrams, data dictionaries, and metadata. - Troubleshoot data-related issues and optimize data storage solutions. - Stay informed on the latest data engineering trends and AI advancements. - Participate in design discussions and code reviews to ensure best practices in data management.",
+  "industry": "Information Technology"
+}

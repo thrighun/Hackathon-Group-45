@@ -1,0 +1,4 @@
+{
+  "raw_jd": "data engineer, analytics, workflow automation",
+  "industry": "Information Technology"
+}

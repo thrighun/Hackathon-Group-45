@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Looking for an AI/ML Solutions Architect with a strong background in developing scalable AI frameworks. The role involves designing innovative solutions for data analytics and machine learning applications, focusing on real-time data processing and predictive analytics. Ideal candidates will have experience in architecting AI models that can enhance business intelligence tools and drive decision-making processes. You will also ensure the seamless integration of AI capabilities into existing systems, collaborating closely with data engineers and business analysts to identify opportunities for AI implementation. The role requires a commitment to staying informed on the latest technological trends and actively contributing to AI strategy discussions within the organization.",
+  "industry": "Technology"
+}

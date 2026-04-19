@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack Developer with a focus on React and Node.js, 3-6 years of experience required. Responsible for building and maintaining scalable web applications across the full stack. The role includes designing RESTful APIs, integrating with databases, and creating engaging user interfaces. Collaborate closely with product managers and designers to deliver high-quality software. Must have a solid understanding of cloud services and DevOps practices.",
+  "industry": "Multinational Technology Provider"
+}

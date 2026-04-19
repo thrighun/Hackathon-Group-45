@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Embedded Software Engineer - IoT Applications\nDesign and implement embedded software for Internet of Things (IoT) devices utilizing C and Python. Collaborate with hardware engineers to ensure seamless integration of software with new IoT products. Develop algorithms for data collection, processing, and transmission over various communication networks. Conduct thorough testing and validation of IoT solutions to ensure reliability and efficiency. Participate in agile development processes and contribute to sprint planning and reviews. Create comprehensive documentation of firmware architecture, design, and user manuals. Stay updated with IoT trends, cybersecurity measures, and best practices in device management. Provide support during the product lifecycle, including troubleshooting and product updates.",
+  "industry": "Internet of Things (IoT)"
+}

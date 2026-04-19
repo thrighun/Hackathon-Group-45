@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Automation Quality Analyst, web testing automation, API testing, JavaScript, Agile methodologies, Postman, Git, performance testing, troubleshooting, documentation, test planning, cross-browser compatibility.",
+  "industry": "Technology"
+}

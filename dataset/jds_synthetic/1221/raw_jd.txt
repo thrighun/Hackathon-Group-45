@@ -1,0 +1,4 @@
+{
+  "raw_jd": "data engineer, python, spark, data warehousing, sql, aws, etl, airflow, github, tableau",
+  "industry": "Multinational Technology Services and Consulting"
+}

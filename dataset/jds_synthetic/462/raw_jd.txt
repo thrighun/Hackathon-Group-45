@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Frontend Engineer, 5 years experience, digital marketing\nDevelop dynamic and engaging web applications using frameworks such as Angular and Vue.js.\nCollaborate closely with UX/UI Designers and Marketing teams to build interactive and visually appealing online marketing tools.\nImplement responsive designs and ensure seamless user experiences across various devices and browsers.\nConduct performance analysis and optimizations for high-traffic web applications.\nParticipate in Agile development processes, contributing to sprint planning and retrospective meetings.\nMentor junior developers and facilitate knowledge sharing within the team. \nParticipate in user testing and feedback sessions to iterate on the development process.\nContinuously enhance applications by integrating new frameworks and industry best practices.",
+  "industry": "Digital Marketing"
+}

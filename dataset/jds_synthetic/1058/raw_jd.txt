@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Python, RTOS, Embedded Software Engineer, 2+ years experience in software development. Design, implement, and optimize embedded software solutions using Python and C for real-time operating systems (RTOS). Collaborate with cross-functional teams to create and test system architecture for embedded applications. Analyze system performance and make adjustments to achieve optimal functionality. Participate in code reviews and mentor junior developers to enhance team skills. Document all development processes and system designs. Stay informed on the latest trends in embedded systems and software development practices.",
+  "industry": "Embedded Systems and Software Development"
+}

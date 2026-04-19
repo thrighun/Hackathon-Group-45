@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Cloud Infrastructure Security Architect, 8 years experience",
+  "industry": "Technology"
+}

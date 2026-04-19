@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Front-End Engineer with Vue.js and Bootstrap, 4 years or more experience, responsible for creating responsive web applications and mentoring junior developers.",
+  "industry": "Multinational Technology Provider"
+}

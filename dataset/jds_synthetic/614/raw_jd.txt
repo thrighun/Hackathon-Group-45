@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Java Software Engineer, AI Model Integration, Intelligent Systems, Cloud Solutions",
+  "industry": "Technology"
+}

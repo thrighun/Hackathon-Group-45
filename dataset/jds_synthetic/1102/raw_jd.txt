@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Machine Learning Engineer with Expertise in Natural Language Processing\n\nAs a Machine Learning Engineer specializing in Natural Language Processing (NLP), you will play a vital role in developing and implementing innovative NLP solutions that enhance our products and services. You will work closely with data scientists, researchers, and software engineers to create cutting-edge applications that leverage machine learning algorithms for text understanding, sentiment analysis, and language translation. This position requires proficiency in both developing and scaling machine learning models, as well as a strong foundation in linguistics and computational techniques.",
+  "industry": "Information Technology Services"
+}

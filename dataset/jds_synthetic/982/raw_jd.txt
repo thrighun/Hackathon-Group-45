@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Software Engineer - Java Microservices Developer, 5+ years\nJoin our dynamic engineering team at a leading software solutions provider. We are seeking a Senior Software Engineer with expertise in Java and microservices architecture to help us design, develop, and deploy robust applications. In this role, you will work closely with product teams to deliver high-quality software solutions, leveraging cloud technologies and modern development practices. A passion for innovation and continuous learning is essential.",
+  "industry": "Software Development"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are seeking innovative Software Developers with a focus on web-based applications and a solid grasp of frontend technologies. Ideal candidates will have expertise in JavaScript frameworks such as React or Angular and be eager to expand their knowledge in mobile application development and API integration. A background in developing user-centric applications is preferred.",
+  "industry": "Technology"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Job Title: Full Stack Developer\nDepartment: Information Technology\nLocation: Information not provided\n\nObjective: To design and implement versatile web applications and services, ensuring seamless user experiences and efficient backend processes.\n\nPrimary Responsibilities:\n1. Develop, test, and deploy full stack applications using Java and modern front-end frameworks.\n2. Work closely with UX/UI designers to create intuitive interfaces.\n3. Collaborate with backend developers to integrate and optimize APIs.\n4. Analyze and enhance application performance and scalability.\n5. Conduct regular code reviews and mentor junior developers.\n6. Stay current with emerging technologies and industry trends.\n7. Document application processes and maintain comprehensive technical documentation.",
+  "industry": "Technology"
+}

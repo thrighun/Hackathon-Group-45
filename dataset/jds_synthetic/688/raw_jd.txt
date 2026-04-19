@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Python Software Engineer with Django Framework. We are seeking a dedicated Python Software Engineer to join our dynamic team within a leading Technology Solutions Firm. The ideal candidate will focus on developing scalable web applications using the Django framework. You will collaborate closely with product managers, UX designers, and QA teams to turn innovative ideas into tangible products. Key responsibilities include writing clean and efficient code, participating in code reviews, and contributing to all phases of the development lifecycle. You will also be responsible for integrating third-party services and APIs, ensuring high performance and responsiveness of applications. The role involves debugging applications and performing peer code reviews while mentoring junior developers.",
+  "industry": "Technology Solutions"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Node.js development, web application, Express.js, MySQL, AWS, machine learning, data analytics",
+  "industry": "Information Technology / Data Analytics Solutions Provider"
+}

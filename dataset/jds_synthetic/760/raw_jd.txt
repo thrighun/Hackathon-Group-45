@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Primary Skills  Quality Assurance Automation\nSecondary Skills  Performance Testing(Competent)\nDesignation  Quality Assurance Engineer\nExperience  Job Family  Testing / Validation\nJob  Automation Testing Lead\nJobDescription  \"Skills : Selenium WebDriver, JMeter, Postman\"",
+  "industry": "Multinational Technology Provider"
+}

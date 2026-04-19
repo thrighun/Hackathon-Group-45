@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Software Engineer - Frontend Specialist\n\nThe Software Engineer - Frontend Specialist will focus on creating dynamic and responsive web applications using modern JavaScript frameworks. You will work closely with backend developers to integrate APIs and contribute to user interface design, ensuring intuitive user experiences that meet business needs. Your role involves collaborating with cross-functional teams to design, develop, and test high-quality web applications that are visually appealing and highly functional. You will also participate in UI testing and optimize applications for maximum speed and scalability.",
+  "industry": "Technology"
+}

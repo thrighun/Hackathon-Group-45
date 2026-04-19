@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack Developer with React and Node.js\n\nWe are seeking a talented Full Stack Developer with expertise in React and Node.js to join our dynamic team. In this role, you will be responsible for designing, developing, and implementing web applications that meet our clients' needs in the technology sector. You will work closely with cross-functional teams to create innovative solutions while ensuring optimal performance and user satisfaction.",
+  "industry": "Information Technology / Software Development"
+}

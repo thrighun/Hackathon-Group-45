@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Hiring: Visual Content Creator. Responsibilities include producing engaging visual content for digital platforms, executing video projects, and collaborating with cross-functional teams. Skills: proficiency in video editing software, creativity, storytelling ability.",
+  "industry": "Multinational Technology Provider"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are seeking a seasoned Machine Learning Operations (MLOps) Engineer who will be responsible for the deployment and management of AI/ML models in production environments. The ideal candidate will design and implement robust workflows for model training and deployment, optimize existing machine learning pipelines for scalability and performance, and ensure reliable monitoring of model performance post-deployment. Responsibilities include collaborating with data scientists to transition prototypes into production-ready systems, creating automation scripts for data handling, and implementing CI/CD practices for ML projects. Candidates should have a solid foundation in software engineering practices, model versioning, and infrastructure as code. Experience 3-10 years.",
+  "industry": "Technology"
+}

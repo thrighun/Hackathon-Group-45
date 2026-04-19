@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack .NET Developer with 6 years of experience. Proficient in .NET Core and Angular framework. Strong understanding of RESTful services and API integrations. Knowledge of CI/CD practices and familiar with Azure cloud services.",
+  "industry": "Information Technology & Services"
+}

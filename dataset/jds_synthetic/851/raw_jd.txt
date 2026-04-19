@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Individuals with significant experience in developing and managing microservices architectures and cloud-based applications. The role requires experience with frontend technologies and a strong background in creating RESTful APIs, as well as familiarity with CI/CD practices and container orchestration tools. Candidates should also have experience with data storage solutions for scalable applications deployed on cloud platforms.",
+  "industry": "Technology"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "1. Proficiency in SolidWorks or Autodesk Inventor 2. Experience in 3D CAD modeling, including assembly design and surface modeling 3. Knowledge in designing automotive electrical systems including wiring harnesses and connectors 4. Familiarity with product design for Automotive Safety Systems such as airbags, seat belts, and collision detection systems 5. Understanding of manufacturing methods including additive manufacturing, stamping, and CNC machining 6. Proficient in conducting design validation tests and utilizing simulation tools for mechanical analysis.",
+  "industry": "Automotive Engineering"
+}

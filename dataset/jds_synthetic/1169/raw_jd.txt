@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Python Full Stack Developer with 3-6 years of experience in web application development using Python and related technologies. Responsible for the design and development of scalable web applications, collaborating with UI/UX designers to create engaging user interfaces, and ensuring high performance across various platforms. Maintain and enhance existing applications while integrating new features based on user feedback and requirements. Develop and consume RESTful APIs, and implement robust security measures for data protection. Test, debug, and document code changes, ensuring adherence to coding standards and best practices.",
+  "industry": "Multinational Technology Provider"
+}

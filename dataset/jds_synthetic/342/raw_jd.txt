@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Machine Learning Engineer with 4 to 6 years of experience. Proficient in building and deploying machine learning models. Familiarity with cloud-based MLOps tools is essential.",
+  "industry": "Multinational Technology Solutions Provider"
+}

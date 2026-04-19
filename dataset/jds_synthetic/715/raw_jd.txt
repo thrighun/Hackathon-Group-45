@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are seeking a talented Machine Learning Operations (MLOps) Specialist with a strong background in AI model deployment and management. The ideal candidate will have experience in monitoring and optimizing the performance of AI models in production environments, ensuring scalability and reliability. Responsibilities include implementing CI/CD pipelines for machine learning workflows, collaborating with data scientists to streamline model deployment processes, and utilizing cloud-based platforms for efficient model serving and monitoring. Familiarity with containerization technologies such as Docker and orchestration tools like Kubernetes is required. Proficiency in Python and experience with machine learning frameworks are essential.",
+  "industry": "Technology"
+}

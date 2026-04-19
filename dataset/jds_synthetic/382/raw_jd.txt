@@ -1,0 +1,4 @@
+{
+  "raw_jd": "1. Proficiency in SolidWorks or Siemens NX 2. Background in 3D CAD modeling, assembly design, and prototype development 3. Knowledge of thermal systems and fluid dynamics is preferred 4. Experience in the design of automotive electrical systems, including wiring harness and control modules 5. Familiarity with manufacturing techniques such as additive manufacturing, electroplating, and stamping 6. Understanding of Quality Assurance processes and standards applicable to automotive components",
+  "industry": "Automotive Engineering"
+}

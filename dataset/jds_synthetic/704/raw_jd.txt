@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Developer with Vue.js Expertise and CSS Framework Experience, 3-6 years. Responsible for designing and implementing user-facing features for a leading e-commerce platform, collaborating with UI/UX designers to create dynamic web applications. Utilize Vue.js to build scalable applications, ensuring seamless integration with backend services. Maintain high standards of code quality, perform unit testing, and troubleshoot issues as they arise. Engage in agile methodologies to facilitate continuous improvement and iterate on project requirements. Stay informed on industry best practices and emerging technologies to enhance user experience.",
+  "industry": "E-commerce"
+}

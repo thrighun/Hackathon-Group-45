@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Organizational Insights Analyst responsible for analyzing employee performance data, developing workforce strategies, and enhancing employee engagement initiatives. Utilize advanced statistical methods to assess training effectiveness and model future workforce needs. Conduct sentiment analysis on employee surveys and feedback, employing sentiment analysis tools to gauge workplace morale. Collaborate with department heads to define analytics needs and deliver actionable reports that guide talent management decisions. Create and manage data visualization dashboards to present findings to stakeholders.",
+  "industry": "Human Resources Consulting"
+}

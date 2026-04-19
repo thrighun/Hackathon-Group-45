@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Engineer specializing in Vue.js with experience in CSS preprocessors, 2-6 years",
+  "industry": "Technology"
+}

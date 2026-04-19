@@ -1,0 +1,4 @@
+{
+  "raw_jd": "1. Proficiency in SolidWorks or NX for 3D CAD modeling and simulation\n2. Experience with Finite Element Analysis (FEA) and Computational Fluid Dynamics (CFD)\n3. Background in designing automotive electrical systems and subsystems such as wiring harnesses and control units\n4. Familiarity with vehicle dynamics and suspension systems design\n5. Understanding of electronic components and their integration into automotive products\n6. Knowledge of design for manufacturability principles and production methodologies\n7. Ability to conduct design reviews and iterate designs based on stakeholder feedback",
+  "industry": "Automotive Engineering"
+}

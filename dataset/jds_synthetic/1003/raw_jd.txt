@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Candidates should have a strong background in AI model optimization and application deployment, specifically focusing on the creation of intelligent systems that enhance decision-making processes. Responsibilities include architecting and implementing machine learning solutions that leverage big data, conducting performance tuning of AI models for improved accuracy, and collaborating with data scientists to develop predictive analytics frameworks. The role also involves integrating machine learning tools into existing workflows and creating user-friendly interfaces for end-users. Candidates should have 3-10 years of relevant experience.",
+  "industry": "Artificial Intelligence and Machine Learning"
+}

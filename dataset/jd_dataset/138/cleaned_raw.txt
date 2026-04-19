@@ -1,0 +1,7 @@
+Industry: 
+Job Summary: Python Engineer with 4-6 years of experience. The role focuses on developing solutions leveraging Large Language Models (LLMs). The candidate should have experience in LangChain, fine-tuning LLMs, Retrieval-Augmented Generation (RAG), and related NLP techniques. This role involves working on advanced AI projects.
+Key Responsibilities:
+Solution Development: Design and develop solution using LLMs to demonstrate business use cases. LLM Fine-tuning and
+Optimization: Fine-tune pre-trained LLMs (e. g., GPT, Llama, etc.) for specific tasks and domains. Optimize models for performance and scalability. LangChain and
+Workflow Implementation: Build custom workflows using LangChain for task-specific LLM applications. Implement advanced prompting, chaining, and agent-based interactions. Retrieval-Augmented Generation (RAG): Design and implement RAG pipelines to integrate knowledge bases with LLMs. Develop efficient retrieval mechanisms using vector databases like Pinecone, Weaviate, or similar. Integration and
+Deployment: Develop APIs to integrate LLM functionalities into larger applications. Deploy models on cloud platforms (AWS, GCP, or Azure) or edge devices.

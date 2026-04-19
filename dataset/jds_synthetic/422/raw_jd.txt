@@ -1,0 +1,4 @@
+{
+  "raw_jd": "1. Proficiency in Siemens NX or SolidWorks 2. Experience with 3D CAD Modeling, Assembly Design, and Surface Modeling 3. Familiarity with Cable Management and Harness Design will be an advantage 4. Experience in Designing Electrical and Electronic Systems for Automotive Applications such as Infotainment / Battery Management / Lighting Systems / Advanced Driver Assistance Systems (ADAS) 5. Understanding of PCB (Printed Circuit Board) Design and Electronic Component Integration 6. Familiarity with industry standards and regulations related to automotive electronics and safety.",
+  "industry": "Automotive"
+}

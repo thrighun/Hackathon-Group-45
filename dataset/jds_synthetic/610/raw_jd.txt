@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Embedded Software Engineer with a focus on IoT devices, 3-6 years experience. Responsibilities include developing firmware for IoT applications, collaborating with hardware engineers to integrate software and hardware components, ensuring the reliability and security of IoT systems, participating in the full software development lifecycle, and performing unit tests and debugging. Must have experience with wireless communication protocols, low-power design, and possess problem-solving skills. Familiarity with Python or JavaScript is a plus.",
+  "industry": "IoT Technology"
+}

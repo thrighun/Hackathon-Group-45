@@ -1,0 +1,4 @@
+{
+  "raw_jd": "senior software engineer - backend systems",
+  "industry": "Information Technology Services / Technology Solutions"
+}

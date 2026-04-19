@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Seeking a Software Engineer with a strong background in developing and maintaining microservices-based applications and integrating with serverless architectures. Candidates should have experience in building resilient APIs, optimizing system performance, and implementing security best practices in cloud environments. Familiarity with front-end technologies and user interface design is a plus. Ideal candidates will possess 4-12 years of experience in software development, with a focus on scalable systems deployed on cloud platforms.",
+  "industry": "Technology"
+}

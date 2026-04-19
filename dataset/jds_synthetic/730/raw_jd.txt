@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are seeking a talented UI/UX Designer to enhance our digital products and user experiences. The ideal candidate will focus on designing intuitive and engaging user interfaces while ensuring a seamless user journey. You will collaborate closely with our development team to create innovative designs that meet both the needs of our clients and the strategic goals of the organization. If you have a passion for user-centered design and a strong portfolio showcasing your work, we want to hear from you. Your contributions will be essential in shaping the overall aesthetic and functionality of our web applications, ensuring that our users have an exceptional interaction with our digital platforms.",
+  "industry": "Technology"
+}

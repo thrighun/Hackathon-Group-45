@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Firmware Engineer - IoT Solutions, 4+ years",
+  "industry": "Internet of Things (IoT)"
+}

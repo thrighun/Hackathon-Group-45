@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Software Engineer - Full Stack Developer, 6-8 years experience, Node.js, React.js, Location: Bangalore or Hyderabad",
+  "industry": "Information Technology"
+}

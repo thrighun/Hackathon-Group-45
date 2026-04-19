@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Python Embedded Software Developer with 4-5 years of experience in embedded systems programming and development.",
+  "industry": "Information Technology & Services"
+}

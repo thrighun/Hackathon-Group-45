@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Spring Framework Developer with 3-6 years of experience in building enterprise-level applications. Responsible for developing, testing, and deploying applications that meet business needs. Work closely with product managers and users to gather requirements and translate them into functional software. Implement new technologies and frameworks, while maintaining existing codebases. Ensure high performance and responsiveness of applications by optimizing code and performing thorough testing. Participate in architectural discussions to promote software best practices and design patterns. Engage in continuous improvement efforts to enhance the development process.",
+  "industry": "Technology"
+}

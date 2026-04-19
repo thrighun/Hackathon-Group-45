@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Embedded Software Engineer with 5 years experience\n\n- Develop and maintain embedded software solutions for IoT devices.\n- Collaborate with hardware engineers to design interfaces and ensure seamless integration.\n- Write, test, and optimize code in C and assembly languages for performance in resource-constrained environments.\n- Conduct validation and verification of embedded systems, ensuring compliance with industry standards.\n- Document software specifications and contribute to user manuals for end-users.\n- Provide technical support and troubleshooting for deployed systems in the field.\n- Stay informed about emerging trends in embedded systems and IoT technology.",
+  "industry": "Technology Provider"
+}

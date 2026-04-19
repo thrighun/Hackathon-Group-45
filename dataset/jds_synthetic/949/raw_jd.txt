@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack Java Developer, Spring Framework, 3+ years\n\nIn this role, the Full Stack Java Developer will be responsible for developing comprehensive web applications using Java and the Spring framework. You will work collaboratively with both front-end and back-end teams to create intuitive and responsive user interfaces while also developing robust server-side functionality. The ideal candidate should have a strong understanding of both Java and front-end technologies, be proactive in troubleshooting issues, and possess excellent communication skills to facilitate interaction with stakeholders.",
+  "industry": "Technology Solutions"
+}

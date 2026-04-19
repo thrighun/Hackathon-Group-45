@@ -1,0 +1,4 @@
+{
+  "raw_jd": "senior frontend engineer, 4 years\n\nWe are seeking a talented Senior Frontend Engineer with a strong background in modern web technologies to join our innovative team in the Information Technology industry. The ideal candidate will have at least four years of experience in developing and deploying high-performance web applications. As a Senior Frontend Engineer, you will lead frontend architecture decisions and enhance our existing applications while ensuring a scalable and maintainable codebase. You will also mentor junior developers, advocate for best practices, and collaborate closely with cross-functional teams including backend developers, product management, and design. A passion for building user-friendly interfaces and a keen eye for detail are essential for this role.",
+  "industry": "Information Technology"
+}

@@ -1,0 +1,12 @@
+Industry: Any Industry
+Job Title: DATA ENGINEER
+Location:
+Seattle 
+Country: USA
+Experience Required: 2.7 - 4.4 years
+Primary Skills:
+Azure 
+Secondary Skills: Spark,
+Docker 
+Job Description: Knowledge on Control-M v9 architecture, job scheduling and admin activities. Experience with component security and EM Security. Experience with CTM and EM databases and structure. Experience in installation, configuration and administration. Troubleshoot Control-M dependencies and take corrective actions.
+Additional Requirements: Perform initial analysis for root cause of failed and long running jobs. Experience in installation, configuration and administration.

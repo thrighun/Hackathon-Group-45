@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Engineer, Vue.js, Bootstrap, 3-6 years experience",
+  "industry": "Software Development"
+}

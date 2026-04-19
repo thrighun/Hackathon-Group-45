@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Software Engineer - Java, 4-6 years, Spring Framework, Cloud Applications, REST Services",
+  "industry": "Information Technology"
+}

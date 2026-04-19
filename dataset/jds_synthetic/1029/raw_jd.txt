@@ -1,0 +1,4 @@
+{
+  "raw_jd": "frontend software engineer, 3 years experience, focusing on Angular and mobile-first design. Responsible for creating dynamic web applications with high scalability and performance. Collaborate with cross-functional teams including designers and product owners to deliver innovative solutions. Implement responsive designs that enhance user experience on various devices. Optimize applications for maximum speed and efficiency, and ensure compatibility across different browsers. Participate in code reviews and contribute to team best practices. Stay updated with the latest trends in web development and integrate new technologies as required.",
+  "industry": "Information Technology / Technology Solutions"
+}

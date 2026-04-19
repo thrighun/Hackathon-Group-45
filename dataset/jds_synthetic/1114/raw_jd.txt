@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Azure Cloud Engineer, 4-6 years\n\nLocation: Remote\n\nClient Industry: Cloud Computing Solutions Provider\n\nResponsibilities:\n- Design, implement, and manage Azure cloud solutions to support business applications and infrastructure.\n- Ensure optimal performance, reliability, and security of Azure environments.\n- Conduct system monitoring, performance tuning, and troubleshooting across Azure services.\n- Develop automation scripts using Azure CLI and PowerShell to streamline processes.\n- Work closely with software development teams to facilitate seamless integration and deployment of applications.\n- Maintain compliance with relevant industry regulations and security standards.\n- Provide support and expertise to teams and clients regarding Azure services and architecture.\n- Research and recommend new Azure tools and technologies to enhance operational efficiency.",
+  "industry": "Cloud Computing"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Software Engineer - AI-Driven Web Applications. The role involves creating scalable web applications that utilize AI technologies, emphasizing Python and FastAPI. Responsibilities include collaborating with frontend developers to ensure seamless integration of backend services, implementing machine learning models, and optimizing application performance. The position requires the use of MongoDB for NoSQL data storage and ensuring effective API management. Applicants should have strong experience in building serverless applications and familiarity with GraphQL.",
+  "industry": "Information Technology/IT Services"
+}

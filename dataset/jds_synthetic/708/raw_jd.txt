@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Developer with Vue.js Experience. Transitioning an existing React application to Vue.js is required.",
+  "industry": "Technology"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Front-End Engineer, 3 years\n\nAs a Front-End Engineer, you will take the lead in designing and implementing interactive web applications using Angular. Your role will involve close collaboration with designers and back-end teams to produce high-quality software that enhances user engagement and accessibility. You will be responsible for translating user requirements into functional and appealing features that drive product growth. You should possess a solid understanding of web development best practices as well as experience in performance optimization and mobile-first design. You will also mentor junior developers and conduct peer code reviews.",
+  "industry": "Information Technology / Technology Solutions"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "java development, spring, microservices, mongodb, machine learning, predictive analytics, cloud computing",
+  "industry": "Information Technology/IT Services"
+}

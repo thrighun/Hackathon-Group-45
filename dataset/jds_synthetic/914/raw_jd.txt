@@ -1,0 +1,4 @@
+{
+  "raw_jd": "1. Proficient in Python and SQL (3-7 Years) | Solid technical foundation in both relational databases and data warehousing. 2. Monitor and optimize data pipelines, ensuring integrity and availability of datasets. 3. Collaborate with cross-functional teams to translate business requirements into technical specifications. 4. Participate in initiatives aimed at improving data quality and accuracy. 5. Familiarity with Agile methodologies and project management practices. 6. Handle data-related requests and troubleshoot issues efficiently. 7. Exhibit strong communication skills to effectively liaise with stakeholders. 8. Maintain a proactive approach towards delivering solutions that meet business needs. 9. Flexibility to work outside regular hours when necessary to support data operations. 10. Required to pass a technical interview with the client. 11. Work location should be Hyderabad/Gurgaon/Noida/Bengaluru.",
+  "industry": "Technology"
+}

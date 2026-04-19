@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Node.js Developer with Express.js and MongoDB, 4-6 years experience",
+  "industry": "Web Development"
+}

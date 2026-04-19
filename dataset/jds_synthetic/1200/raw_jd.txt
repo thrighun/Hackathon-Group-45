@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Java Software Engineer, 7 years experience, Microservices architecture and API development focus",
+  "industry": "Multinational Technology Provider"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Java desktop application development, RCP, 3-6 years",
+  "industry": "Multinational Technology Provider"
+}

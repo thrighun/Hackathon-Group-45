@@ -1,0 +1,2 @@
+Industry: Retail
+React Developer with nextjs and tailwind css.

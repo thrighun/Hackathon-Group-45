@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Front-End Application Engineer with Vue.js and Bulma\n\nJoin our dynamic team in the retail sector as a Front-End Application Engineer specializing in Vue.js and Bulma. In this role, you will be responsible for creating engaging user interfaces and enhancing the customer experience across our e-commerce platforms. You will work closely with designers and back-end engineers to bring innovative ideas to fruition, ensuring applications are user-friendly and visually appealing.\n\nKey responsibilities include developing high-quality web applications, optimizing frontend performance, and ensuring seamless integration with back-end services. You will also be expected to participate in agile ceremonies, provide feedback during code reviews, and collaborate effectively with cross-functional teams to meet project objectives.",
+  "industry": "Retail"
+}

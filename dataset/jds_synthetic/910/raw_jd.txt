@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Individuals with robust experience in AI/ML product management, focusing on the development and enhancement of AI-driven analytical tools. Responsibilities include defining product vision and strategy for AI applications that utilize data analytics, collaborating with data scientists to create user-friendly interfaces for complex models, overseeing the integration of machine learning algorithms into software products, conducting market research to identify user needs, and managing the product lifecycle from ideation to launch. Proficiency in agile methodologies and experience with data visualization tools is essential.",
+  "industry": "Technology"
+}

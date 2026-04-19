@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Software Engineer - Full Stack at Tech Innovations. Location: Bangalore or Hyderabad. Responsibilities include working on both front-end and back-end development, designing and implementing web applications using JavaScript, Node.js, React, and RESTful APIs. Requires 3+ years of experience in full stack development, a solid understanding of database management, as well as strong collaboration and communication skills. Optional: experience with cloud services, CI/CD pipelines, and testing frameworks.",
+  "industry": "Information Technology"
+}

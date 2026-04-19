@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Data Analyst in the IT sector tasked with interpreting and managing complex datasets to provide actionable insights. Collaborate with teams to identify data requirements and analytical approaches. Develop and implement data collection systems and data analytics strategies. Ensure data accuracy and integrity through rigorous validation checks. Present findings through visualizations and reports to guide decision-making processes. Stay informed about industry trends in data analytics and technology advancements to optimize analytical techniques.",
+  "industry": "Information Technology"
+}

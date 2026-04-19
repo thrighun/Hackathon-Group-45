@@ -1,0 +1,4 @@
+{
+  "raw_jd": "React JS, Cloud AI Solutions Engineer, 4+ years\n\nJoin our innovative tech team as a React JS, Cloud AI Solutions Engineer. We are seeking a skilled engineer with experience in building scalable and efficient web applications using React JS and cloud-based AI solutions. In this role, you will work closely with product managers, designers, and other developers to create state-of-the-art web applications that leverage artificial intelligence for enhanced user experiences.\n\nYou will be responsible for developing application features, integrating third-party APIs, and ensuring the responsiveness and performance of applications across various devices. You will also participate in brainstorming sessions to come up with creative solutions to complex problems, and conduct thorough testing to ensure high quality and functionality of applications.",
+  "industry": "Technology Provider"
+}

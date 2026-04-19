@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Salesforce Administrator with a focus on managing and optimizing Salesforce systems for a global enterprise. Minimum 3 years of experience required.",
+  "industry": "Multinational Technology Provider"
+}

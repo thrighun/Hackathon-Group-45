@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Software Engineer - Embedded Systems, experience 6-12 years",
+  "industry": "Technology"
+}

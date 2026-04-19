@@ -1,0 +1,4 @@
+{
+  "raw_jd": "data engineer, ETL processes, big data technologies",
+  "industry": "Technology"
+}

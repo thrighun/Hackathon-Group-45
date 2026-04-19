@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Customer: GOOGLE LLC\nBand: E2.3\nLocation: BENGALURU\nJD->\n\u00b7 Lead comprehensive testing efforts for web applications and mobile platforms.\n\u00b7 Design and execute automated testing strategies, ensuring robust test coverage and performance.\n\u00b7 Collaborate with development teams to integrate testing into CI/CD pipelines.\n\u00b7 Analyze test results and provide actionable feedback to enhance software quality.\n\u00b7 Mentor junior QA engineers, fostering skills in automation and best practices.\n\u00b7 Document testing processes, methodologies, and findings to improve workflow efficiency.",
+  "industry": "Technology"
+}

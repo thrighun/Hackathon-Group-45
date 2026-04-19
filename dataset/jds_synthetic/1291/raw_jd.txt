@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Developer, Vue.js, 2-3 years experience. A leading E-commerce platform is seeking a skilled Frontend Developer proficient in Vue.js to join our team. You will be responsible for building dynamic and responsive web interfaces that enhance the user shopping experience. Collaborate with designers and backend developers to implement user-friendly features and optimize the site for performance. Troubleshoot and resolve any issues that arise in the application. Stay informed on the latest web technologies and trends to continuously improve our products and services.",
+  "industry": "E-commerce"
+}

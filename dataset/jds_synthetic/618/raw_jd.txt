@@ -1,0 +1,4 @@
+{
+  "raw_jd": "data engineering, python, big data, apache spark, data warehousing, ETL processes, cloud technologies, machine learning integration",
+  "industry": "Information Technology/IT Services"
+}

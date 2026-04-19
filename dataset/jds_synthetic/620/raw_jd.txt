@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We're seeking a skilled Front-End Engineer specializing in Vue.js to join our dynamic team. The ideal candidate will be responsible for creating engaging web applications that enhance user experience and drive customer satisfaction. You will work closely with designers to implement visually appealing interfaces and ensure optimal performance across different devices. Your role will involve writing clean, modular code and participating in code reviews to guarantee high-quality software development. Additionally, you'll address bugs and optimize existing features as per user feedback. If you have a passion for building innovative applications and a knack for problem-solving, we want to hear from you.",
+  "industry": "Technology"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "data scientist, machine learning, data analysis",
+  "industry": "Information Technology"
+}

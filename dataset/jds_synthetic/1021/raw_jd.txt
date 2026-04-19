@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Data Engineer, cloud architecture, ETL, data pipelines, analytics, big data",
+  "industry": "Information Technology & Services"
+}

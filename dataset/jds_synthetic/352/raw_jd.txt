@@ -1,0 +1,4 @@
+{
+  "raw_jd": "1. Proficient in Oracle PL/SQL and Java (3-5 Years) | Strong knowledge of database design and data modeling practices.\n2. Optimize existing database queries and improve system performance based on customer feedback.\n3. Collaborate with cross-functional teams to design and implement new database solutions.\n4. Document technical specifications and maintain system documentation.\n5. Experience with Agile methodologies and active participation in sprint planning and reviews.\n6. Mentor junior developers and provide training on best practices in database management.\n7. Experience with data migration projects and managing data integrity.\n8. Be on call for support escalations and urgent production issues.\n9. Willingness to engage with clients to gather requirements and provide updates.\n10. Located in Hyderabad/Chennai/Noida.",
+  "industry": "E-commerce"
+}

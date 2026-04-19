@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Front-End Engineer, 5 years experience, Vue.js and application performance optimization expertise",
+  "industry": "Technology"
+}

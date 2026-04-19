@@ -1,0 +1,13 @@
+Industry: Any Industry
+Job Title:
+React Senior Developer 
+Location: Bangalore (Client Location)
+Country:
+India 
+Experience Required: 3 - 5 years
+Primary Skills: React, JavaScript,
+Redux 
+Secondary Skills: Node. js, HTML, CSS
+Job Description: Design and implement high-quality, scalable web applications using React. Work with cross-functional teams to define project requirements and technical specifications. Write clean, maintainable, and efficient code. Ensure the technical feasibility of UI/UX designs. Optimize components for maximum performance across a variety of web-capable devices and browsers. Collaborate with backend developers to integrate APIs.
+Minimum Qualifications: Bachelor's degree in Computer Science or related field. 3+ years of experience in React development. Strong proficiency in JavaScript, HTML, and CSS. Experience with state management libraries like Redux. Familiarity with RESTful APIs, Webpack, and Git.
+Additional Requirements: Experience with React Native is a plus

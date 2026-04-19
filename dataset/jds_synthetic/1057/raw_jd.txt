@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Python Backend Developer, 2+ years of experience with a focus on scalable application development. Responsible for designing and implementing RESTful APIs, optimizing server-side logic, and ensuring high performance and responsiveness to requests from the front-end. Collaborate with front-end developers to integrate user-facing elements with server-side logic, and assist in database design and management. Write reusable, testable, and efficient code while participating in code reviews to uphold best practices. Keep documentation current and contribute to agile sprints, adapting to evolving project requirements.",
+  "industry": "Technology"
+}

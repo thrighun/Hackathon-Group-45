@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Frontend Engineer specializing in Vue.js with 7 years of experience in mobile-responsive web development, content management systems, and user experience design. This is a pivotal role focused on enhancing our digital retail applications.",
+  "industry": "Retail"
+}

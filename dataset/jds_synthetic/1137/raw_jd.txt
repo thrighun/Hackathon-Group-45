@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Node.js and Angular Fullstack Developer with Microservices Architecture Experience. 3-6 years",
+  "industry": "Multinational Technology Provider"
+}

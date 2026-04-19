@@ -1,0 +1,4 @@
+{
+  "raw_jd": "javascript development, frontend, react, node.js, mongodb, aws, ai integration, agile methodology",
+  "industry": "Information Technology / Multinational Technology Solutions Provider"
+}

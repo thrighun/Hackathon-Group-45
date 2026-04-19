@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack Developer with Angular and Bootstrap\n\nAs a Full Stack Developer, you will be responsible for designing, developing, and deploying dynamic web applications using Angular and Bootstrap. You will work collaboratively with cross-functional teams to define project requirements and ensure the delivery of high-quality solutions. Your role will include both front-end and back-end development, with a strong focus on user experience and performance optimization. You will maintain and enhance existing applications while also contributing to the development of new features. Key responsibilities include writing clean, maintainable code, integrating APIs, and conducting testing to ensure functionality aligns with business objectives.",
+  "industry": "Information Technology Services"
+}

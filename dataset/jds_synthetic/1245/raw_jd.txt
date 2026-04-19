@@ -1,0 +1,4 @@
+{
+  "raw_jd": "AI Solutions Architect specializing in Python and Machine Learning for Intelligent Automation",
+  "industry": "Information Technology Services"
+}

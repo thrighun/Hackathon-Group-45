@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack Developer with MERN Stack, 4 years experience",
+  "industry": "Multinational Technology Provider"
+}

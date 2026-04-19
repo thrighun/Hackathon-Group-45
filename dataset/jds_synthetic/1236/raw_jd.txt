@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Python, Embedded Systems Engineer, 2+ years experience working with IoT devices and firmware development.",
+  "industry": "Internet of Things (IoT)"
+}

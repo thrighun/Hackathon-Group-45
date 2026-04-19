@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Engineer (Vue.js & Tailwind CSS) focused on e-commerce applications. This role requires a creative developer experienced in building scalable and visually appealing web interfaces for online retail platforms. Key responsibilities include collaborating with product managers and designers to create seamless shopping experiences, implementing responsive designs with an emphasis on mobile usability, and optimizing the frontend performance for high traffic. The candidate should be adept at using version control systems, integrating APIs, troubleshooting code issues, and participating in code reviews. Additionally, this position involves documenting processes and contributing to team knowledge sharing, all while adhering to best practices in software development.",
+  "industry": "E-commerce"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are seeking a skilled Software Engineer with a strong emphasis on system architecture and backend development for building high-performance web applications. The ideal candidate will have experience with Java, Go, or Ruby and be excited about integrating with emerging technologies such as machine learning and microservices.",
+  "industry": "Technology"
+}

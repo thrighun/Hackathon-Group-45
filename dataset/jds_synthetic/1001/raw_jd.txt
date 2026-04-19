@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Vue.js Developer with Bootstrap, 2-6 years\n\nJoin our dynamic team as a Vue.js Developer where you will play a critical role in building engaging and high-performance web applications. You will work closely with designers and backend developers to create seamless user experiences. Your primary focus will be on developing responsive interfaces using Vue.js and Bootstrap. \n\nIn this role, you will be responsible for implementing user interfaces, optimizing applications for speed and scalability, and ensuring all components are well-tested and maintainable. You will also have the opportunity to mentor junior developers and contribute to architectural discussions within the team. \n\nThis position requires a passionate developer who is excited about learning new technologies and improving existing processes.",
+  "industry": "Technology Provider"
+}

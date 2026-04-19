@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Vue.js Developer with Nuxt.js, 3-6 years experience",
+  "industry": "Multinational Technology Provider"
+}

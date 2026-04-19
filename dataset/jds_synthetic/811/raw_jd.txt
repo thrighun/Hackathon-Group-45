@@ -1,0 +1,4 @@
+{
+  "raw_jd": "senior front-end engineer, 4 years, specializing in Vue.js development, with strong skills in building interactive web applications and collaborating with cross-functional teams. Responsibilities include designing and implementing responsive user interfaces, optimizing application performance, and maintaining code quality. Must be proficient in JavaScript, HTML, CSS, and modern JavaScript frameworks. Experience with testing frameworks, version control, and Agile methodologies is required.",
+  "industry": "Information Technology / Technology Solutions"
+}

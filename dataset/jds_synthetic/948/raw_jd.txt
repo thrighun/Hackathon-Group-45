@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Data Coordinator, proficient in data management, excellent communication skills in English and Hindi.",
+  "industry": "Information Technology Services"
+}

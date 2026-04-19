@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Join our dynamic team as a Cloud Solutions Engineer! In this role, you will spearhead the design and implementation of innovative cloud-based applications, providing seamless integration and deployment services. You will work closely with product managers and developers to translate business requirements into technical solutions while ensuring high availability and performance. Engage with clients to gather feedback and refine systems, while also providing hands-on support during product launches. Your expertise will be vital in optimizing costs and enhancing user experiences. Collaborate in an agile environment to stay at the forefront of cloud technologies and methodologies.",
+  "industry": "Multinational Technology Provider"
+}

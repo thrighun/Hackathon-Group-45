@@ -1,0 +1,2 @@
+Industry: 
+React DEveloper with nextjs , tailwind css

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Front-End Developer with Vue.js and Vuetify UI\n\nWe are seeking a skilled Senior Front-End Developer with expertise in Vue.js and Vuetify UI to join our dynamic team. The ideal candidate will be responsible for creating high-quality user interfaces for our web applications. You will work closely with product managers, designers, and backend engineers to build and refine web applications that enhance user experiences and drive business success. Your role will include coding, testing, and deploying front-end solutions in a collaborative Agile environment.",
+  "industry": "Technology"
+}

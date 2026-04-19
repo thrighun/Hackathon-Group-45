@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Frontend Engineer specializing in Next.js and Progressive Web Applications (PWAs) for a leading retail client. The ideal candidate will have 6 years of experience in building high-performing, scalable web applications. This position requires a strong focus on performance optimization and user experience. As a senior engineer, you will be responsible for architecting, developing, and deploying cutting-edge web solutions while mentoring a team of developers.",
+  "industry": "Retail"
+}

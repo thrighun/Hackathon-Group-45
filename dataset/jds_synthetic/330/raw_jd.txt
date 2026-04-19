@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Front-End Engineer, 6 years experience in UI/UX development with Angular framework, focusing on responsive design and accessibility features. Responsible for translating UI/UX designs into high-quality code, collaborating closely with designers and backend developers, and participating in user testing sessions to gather feedback. The role requires building and maintaining reusable components and libraries for future use, ensuring the technical feasibility of UI/UX designs, and optimizing applications for maximum speed and scalability.",
+  "industry": "Technology"
+}

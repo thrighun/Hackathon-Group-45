@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Front-End Developer (with Vue.js and Bootstrap). Experience in integrating with GraphQL APIs will be an asset.",
+  "industry": "Information Technology / Web Development Solutions"
+}

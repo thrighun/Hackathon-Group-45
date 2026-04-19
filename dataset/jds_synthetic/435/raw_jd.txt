@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are seeking a talented Front-End Software Engineer to join our dynamic team. The ideal candidate will be responsible for developing interactive and compelling user interfaces using Angular. You will work alongside back-end developers and UX/UI designers to create a smooth, responsive user experience. This role requires a strong understanding of web development principles as well as a passion for staying current with emerging technologies. The position involves actively participating in code reviews, debugging, and implementing best practices in front-end development.",
+  "industry": "Technology"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Lead Java Software Engineer, 6-8 years, Microservices, GraphQL, Cloud Integration",
+  "industry": "Information Technology"
+}

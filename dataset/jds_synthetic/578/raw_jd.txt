@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Full Stack Java Developer specializing in Microservices and Cloud Technologies. Responsible for end-to-end software development involving both frontend and backend components. Collaborate closely with product managers and cross-functional teams to define, design, and ship new features that enhance user experience and optimize efficiency. Implement and maintain microservices architecture using Java Spring Boot, and integrate with cloud services for scalability and reliability. Engage in code optimization, refactoring, and performance tuning, while ensuring adherence to coding standards and best practices. Mentor junior developers and participate in agile ceremonies to improve team collaboration and productivity. Stay updated on industry trends and emerging technologies to drive innovation across projects.",
+  "industry": "Information Technology & Services"
+}

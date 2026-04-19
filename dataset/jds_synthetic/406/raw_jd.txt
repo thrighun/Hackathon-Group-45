@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Machine Learning Engineer / AI Solutions Architect\n\nWe are seeking a skilled Machine Learning Engineer to design, build, and deploy scalable machine learning solutions that enhance our service offerings in the technology sector. The ideal candidate will have a strong background in software engineering along with expertise in machine learning algorithms and systems integration.\n\nResponsibilities include developing end-to-end machine learning pipelines, optimizing model performance for production environments, and creating APIs to support machine learning applications. You will work closely with data scientists, software engineers, and product managers to deliver effective AI solutions. This role requires strong analytical skills and a passion for technology innovation.",
+  "industry": "Technology"
+}

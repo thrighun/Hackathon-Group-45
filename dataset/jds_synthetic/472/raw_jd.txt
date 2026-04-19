@@ -1,0 +1,4 @@
+{
+  "raw_jd": "mobile app developer, react native, javascript, mobile technologies, interface design, agile, backend services, python",
+  "industry": "Information Technology / Mobile App Development"
+}

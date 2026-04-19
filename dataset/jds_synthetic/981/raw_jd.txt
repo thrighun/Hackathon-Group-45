@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Java Software Engineer, frontend, AI-driven applications, machine learning, neural networks",
+  "industry": "Technology"
+}

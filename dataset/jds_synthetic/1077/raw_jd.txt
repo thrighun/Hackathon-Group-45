@@ -1,0 +1,4 @@
+{
+  "raw_jd": "skill: Node.js, Express.js, React, RESTful APIs, MongoDB, AWS (with Lambda), Git Collaborating with cross-functional teams to gather requirements and design innovative full-stack solutions. Extensive experience in building and scaling web applications, focusing on performance and responsiveness. Experience in developing server-side applications using Node.js and Express.js, and client-side applications using React. Knowledge of deploying applications to AWS, including account setup, resource management, and security best practices. Proficient in creating and managing RESTful APIs and understanding API security measures. Familiarity with Agile methodologies and CI/CD processes to enable faster delivery of software solutions. Understanding of responsive design principles and mobile-first development. Strong troubleshooting capabilities across diverse tech stacks.",
+  "industry": "Information Technology"
+}

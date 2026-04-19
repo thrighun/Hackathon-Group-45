@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Angular Developer with experience in cloud services, 2-6 years experience",
+  "industry": "Multinational Technology Provider"
+}

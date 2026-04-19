@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Hiring: Marketing Content Creator. Responsibilities include developing written and visual content for online platforms, engaging with audiences through social media, and crafting persuasive copy for marketing campaigns. Skills: Strong writing abilities, experience with video production, familiarity with content management systems.",
+  "industry": "Multinational Technology Provider"
+}

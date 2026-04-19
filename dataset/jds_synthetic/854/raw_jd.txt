@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Python Backend Engineer, 4-6 years\n\nJoin our dynamic engineering team at a leading multinational technology provider as a Python Backend Engineer. In this role, you will be responsible for designing, developing, and maintaining robust backend systems that support our cutting-edge applications. You'll work closely with front-end developers and other stakeholders to ensure seamless integration and optimal performance of our software solutions. As part of your daily responsibilities, you will analyze business needs, create technical specifications, and implement high-quality code while adhering to best practices. Your expertise will also be essential in optimizing existing systems and ensuring security and scalability. We are looking for a candidate who thrives in a fast-paced environment and is eager to learn the latest technologies to contribute to our innovative projects.",
+  "industry": "Multinational Technology Provider"
+}

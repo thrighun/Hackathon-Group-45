@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Python Software Engineer, Flask, RESTful Services, 4-6 years experience",
+  "industry": "Technology"
+}

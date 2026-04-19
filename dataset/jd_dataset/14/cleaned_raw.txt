@@ -1,0 +1,12 @@
+Industry: Any Industry
+Job Title: N/A
+Location: N/A
+Country:
+United States 
+Experience Required: N/A
+Primary Skills: Microservices, React. js,
+Java 
+Secondary Skills: N/A
+Job Description: MicroservicesReact. js
+Java 
+Additional Requirements: None

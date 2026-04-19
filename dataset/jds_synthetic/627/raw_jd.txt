@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Engineer specializing in React and Gatsby for eCommerce Optimization and CMS Customization",
+  "industry": "E-commerce Technology Solutions"
+}

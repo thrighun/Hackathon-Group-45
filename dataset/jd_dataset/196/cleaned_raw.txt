@@ -1,0 +1,2 @@
+Industry: 
+<p>HELLO<br>goodbye</p> React Developer with next js , 5 years

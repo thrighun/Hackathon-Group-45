@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Embedded Systems Architect with extensive experience in system design and integration, 8+ years\n\nJoin our innovative team as an Embedded Systems Architect, where you will drive the design and implementation of cutting-edge embedded solutions. Collaborate with hardware and software engineers to create optimized systems for consumer and industrial applications. You will be responsible for defining system architecture, developing design specifications, and leading integration efforts. Your role will involve assessing performance, improving system efficiency, and ensuring compliance with industry standards. Mentor junior team members and contribute to strategic planning and technical documentation.",
+  "industry": "Technology"
+}

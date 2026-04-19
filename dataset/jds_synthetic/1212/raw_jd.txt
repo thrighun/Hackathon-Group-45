@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Individuals with robust programming skills and experience in mobile application development are sought for the position of Mobile Application Developer. Candidates should have proficiency in languages such as Swift, Kotlin, or React Native, and should be enthusiastic about learning new digital technologies related to UX/UI design and mobile cloud services.",
+  "industry": "Technology"
+}

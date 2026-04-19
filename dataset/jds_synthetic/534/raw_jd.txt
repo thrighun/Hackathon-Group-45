@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Frontend Developer - Legacy Systems, React.js, 5+ years",
+  "industry": "Technology"
+}

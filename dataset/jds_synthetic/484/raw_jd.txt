@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Data Analyst, Exp should 8+ years and location is either New York, NY or San Francisco, CA",
+  "industry": "Technology"
+}

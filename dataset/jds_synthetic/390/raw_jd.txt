@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Firmware Engineer specializing in IoT devices with experience in Python and Linux, 4-6 years",
+  "industry": "Internet of Things (IoT)"
+}

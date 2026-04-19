@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Backend Developer, Microservices, 3-6 years\n\nJoin our dynamic team as a Senior Backend Developer specializing in microservices architecture. You will play a crucial role in designing and implementing scalable backend systems for our innovative applications. Collaborate with frontend developers and product managers to define and refine features and functionality, ensuring seamless integration across platforms. Focus on performance optimization, security, and high availability while leveraging cloud technologies to enhance our offerings. This role requires a strong understanding of agile methodologies and a passion for driving technical excellence in a fast-paced environment.",
+  "industry": "Software Development"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Frontend Developer with Vue.js, 4+ years of experience, experience in enhancing user interfaces, working within Agile teams, knowledge of responsive design principles.",
+  "industry": "Technology"
+}

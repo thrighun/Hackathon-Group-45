@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Software Engineer - Game Development\n- Responsible for the design, development, and optimization of game mechanics using C++.\n- Collaborate with artists, designers, and other developers to create engaging gameplay experiences.\n- Implement and maintain game systems, including physics, AI, and user interfaces.\n- Participate in code reviews, providing constructive feedback to peers to ensure high-quality code.\n- Troubleshoot and resolve performance issues and bugs across various platforms.\n- Stay informed about advancements in game development technology and techniques to enhance game quality.",
+  "industry": "Video Game Development"
+}

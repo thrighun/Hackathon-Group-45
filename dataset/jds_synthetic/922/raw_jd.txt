@@ -1,0 +1,4 @@
+{
+  "raw_jd": "AI Product Manager with 6+ years of experience, including at least 2 years in product management for AI/ML initiatives. The role requires leading the product lifecycle from ideation through development and launch, ensuring alignment with market needs and organizational goals. The AI Product Manager will collaborate with engineering, design, and marketing teams to optimize AI-driven products, define product roadmaps, and identify new market opportunities. A strong understanding of data analytics, user experience design, and AI technologies is essential for success in this role.",
+  "industry": "Multinational Technology Provider"
+}

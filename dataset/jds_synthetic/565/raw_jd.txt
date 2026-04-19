@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Software Engineer - Node.js, 5-7 years, Microservices, GraphQL APIs\n\nOur client, a leading provider of cloud solutions, seeks a Senior Software Engineer with strong Node.js experience. The candidate will be responsible for architecting, developing, and maintaining scalable applications in a microservices environment. The role requires collaboration with cross-functional teams to translate business requirements into technical specifications. Experience in developing GraphQL APIs and working in Agile environments is essential. The candidate will also be expected to conduct code reviews, ensure best practices in code quality, and mentor junior developers. Familiarity with DevOps practices and CI/CD pipelines is a plus. The position is based in Bangalore and may require participation in on-call rotations.",
+  "industry": "Cloud Solutions"
+}

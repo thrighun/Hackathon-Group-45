@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Front-End Engineer specializing in Vue.js for eCommerce and Digital Content Solutions. Focus on building dynamic user interfaces and enhancing online shopping experiences through modern web technologies. Collaborate with design teams to create engaging layouts, employing SCSS and responsive frameworks. Ensure the integration of various eCommerce backends and digital asset management systems. Work closely with product managers to define and prioritize features that enhance user engagement. Conduct performance optimizations and implement best practices for web application security.",
+  "industry": "E-commerce and Digital Solutions"
+}

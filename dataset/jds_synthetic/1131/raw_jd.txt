@@ -1,0 +1,4 @@
+{
+  "raw_jd": "QA Automation Specialist with a focus on Java and API testing using Postman and RestAssured. Responsible for creating and executing automated tests for backend systems and APIs, ensuring high quality and performance. Collaborate with development teams to integrate testing into CI/CD pipelines using Jenkins. Utilize tools like JIRA for issue tracking and TestRail for test case management. Analyze test results and report defects while maintaining documentation for testing processes. Participate in agile ceremonies and contribute to sprint planning and retrospectives. Keep abreast of the latest trends in automation testing and continuously suggest improvements to existing processes.",
+  "industry": "Technology"
+}

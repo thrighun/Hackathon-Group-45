@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Firmware Engineer, embedded systems, 4+ years",
+  "industry": "Embedded Systems Development"
+}

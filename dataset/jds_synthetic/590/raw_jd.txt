@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Embedded Software Engineer, 4-6 years experience in telecommunications or IoT devices focusing on firmware development in C and C++. Responsible for creating and maintaining low-level software that interacts directly with hardware components. Work closely with the hardware engineering team to ensure seamless integration and performance of the system. Design, implement, and validate firmware for embedded systems in a structured and documented manner. Participate in the full software development lifecycle, from planning and requirements gathering to deployment and maintenance. Conduct performance analysis and tuning of embedded applications to meet stringent real-time criteria.",
+  "industry": "Telecommunications / IoT"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are seeking a skilled IT Project Manager to lead various technology initiatives within our multinational technology organization. The ideal candidate will be responsible for planning, executing, and overseeing technology projects from conception to completion, ensuring they are delivered on time and within budget. You will work closely with stakeholders to gather requirements and develop project scopes, as well as coordinating resources and team activities. Additionally, you will manage risks and resolve issues that may arise during the project lifecycle. Strong organizational and leadership skills are essential, as is the ability to communicate effectively with both technical and non-technical team members.",
+  "industry": "Multinational Technology Provider"
+}

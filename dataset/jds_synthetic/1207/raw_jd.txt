@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are seeking a Senior DevOps Engineer with a strong background in automating deployments and managing cloud infrastructure. The ideal candidate will have experience in configuring CI/CD pipelines, maintaining server environments, and enhancing system reliability for large-scale applications. Proven expertise in monitoring, troubleshooting, and optimizing application performance is essential, along with a deep understanding of containerization and orchestration technologies. 5-10 years of experience required.",
+  "industry": "Technology"
+}

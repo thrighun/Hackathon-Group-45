@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Java AI Solutions Architect / Data Integration Specialist",
+  "industry": "Technology"
+}

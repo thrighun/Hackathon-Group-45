@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are seeking a Cloud Solutions Architect with extensive experience in designing and implementing cloud-based architectures for enterprise applications. The ideal candidate will have a strong background in integrating cloud services with on-premises systems and experience in building scalable microservices. Responsibilities include working with development teams to define architecture standards, optimizing cloud infrastructure for performance and cost, and ensuring security best practices are followed. Experience 7-12 years.",
+  "industry": "Technology"
+}

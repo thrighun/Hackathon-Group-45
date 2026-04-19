@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack Developer with a focus on front-end technologies, at least 4 years of experience, familiar with Vue.js and Node.js.",
+  "industry": "Software Development"
+}

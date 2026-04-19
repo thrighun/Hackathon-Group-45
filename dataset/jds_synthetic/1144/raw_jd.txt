@@ -1,0 +1,4 @@
+{
+  "raw_jd": "HCLTech is looking for a dedicated <b>Quality Assurance Analyst</b> to join our innovative team. In this role, you will be responsible for ensuring the quality and performance of software applications across various industries such as Financial Services, Healthcare, and Retail. Your primary focus will be on manual and automated testing processes to identify defects and improve overall software quality. You will collaborate closely with developers, product managers, and other stakeholders to understand requirements and execute tests accordingly. You will also help design test cases, prepare documentation, and report test results to enhance our continuous improvement efforts.",
+  "industry": "Technology Services"
+}

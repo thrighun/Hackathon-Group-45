@@ -1,0 +1,2 @@
+Industry: Technology
+python automation, selenium, web automation, Jira, SQL, test rail, confluence, Testing

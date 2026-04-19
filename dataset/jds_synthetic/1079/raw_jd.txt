@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack Developer with a focus on Vue.js and Node.js for an ecommerce platform, with a minimum of 4 years in web application development and experience in developing APIs.",
+  "industry": "Retail"
+}

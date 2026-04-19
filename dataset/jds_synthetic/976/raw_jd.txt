@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Embedded Software Engineer (Python & C++) with 3+ years of experience. Responsible for developing software for embedded systems in smart home technology. Collaborate with UI/UX designers to create user-friendly interfaces. Optimize existing code for performance and maintainability. Participate in the full software development lifecycle from requirements gathering to deployment. Work closely with hardware teams to integrate software with sensor and actuator systems. Document code and design processes for future reference and compliance. Engage in peer reviews, unit testing, and debugging to ensure software quality across various platforms. Stay attuned to new trends and technologies in smart home devices and embedded systems.",
+  "industry": "Consumer Electronics / Smart Home Technology"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Application Security Specialist, 8 years application development experience",
+  "industry": "Retail"
+}

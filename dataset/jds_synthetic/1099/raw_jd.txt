@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Job Title: Software Engineer - API Development & Frontend Technologies\nLocation: Remote\nCountry: United States\nExperience Required: 3+ years\n\nPrimary Skills: API Development, Angular, Node.js\nSecondary Skills: GraphQL, PostgreSQL, Docker\n",
+  "industry": "Technology"
+}

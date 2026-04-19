@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Data Engineer with expertise in Python, Apache Spark, MongoDB, and AWS. 5+ years of experience required. Responsible for designing and implementing robust data pipelines to support analytics and machine learning initiatives. Collaborate with data analysts and data scientists to gather requirements and optimize data retrieval. Ensure the quality and integrity of data through thorough testing and validation. Create and maintain data models and data warehousing solutions. Document and optimize ETL processes for performance and scalability. Participate in code reviews and contribute to the development of best practices for data management. Stay updated on industry trends and technologies to improve data systems.",
+  "industry": "Information Technology & Services"
+}

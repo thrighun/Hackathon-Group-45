@@ -1,0 +1,4 @@
+{
+  "raw_jd": "java developer, spring, react, postgresql, azure, microservices, git, agile",
+  "industry": "Multinational Technology Services and Consulting"
+}

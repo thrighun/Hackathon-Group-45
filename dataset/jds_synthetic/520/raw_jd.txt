@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Data Engineer - AI Systems & Big Data Analytics - Collaborate with teams to build and maintain scalable data pipelines that support AI and machine learning initiatives. Design and develop ETL processes for large datasets utilizing technologies such as Spark and Hadoop. Work closely with data scientists to ensure availability and accessibility of clean, organized data. Optimize data architectures for performance and scalability and troubleshoot data-related issues as they arise. Utilize Python and SQL extensively in building data models and data warehouses. Participate in code reviews and support the implementation of best practices in data governance and security.",
+  "industry": "Technology"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Machine Learning Engineer specializing in Computer Vision and AI applications",
+  "industry": "Information Technology Services"
+}

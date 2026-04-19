@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Firmware Engineer, 3+ years\n\nAs a Firmware Engineer, you will be responsible for designing, implementing, and testing firmware solutions for a range of consumer electronics products. Your key role will involve integrating software with hardware components to ensure seamless device functionality. You will work closely with the product development team to understand specifications and deliver high-quality firmware.\n\nDaily activities will include writing and optimizing firmware code, conducting rigorous testing procedures, and collaborating with cross-disciplinary teams to address technical challenges. You will also be involved in creating technical documentation and user manuals, and ensuring compliance with relevant industry standards. Your contributions will play a crucial role in delivering innovative products to market while maintaining robust system performance.",
+  "industry": "Consumer Electronics"
+}

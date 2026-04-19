@@ -1,0 +1,4 @@
+{
+  "raw_jd": "data engineer, azure, machine learning, data pipeline, ETL",
+  "industry": "Information Technology & Services"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Front-End Engineer with Vue.js, Bootstrap, and cloud services exposure, 3-6 years experience required.",
+  "industry": "Multinational Technology Provider"
+}

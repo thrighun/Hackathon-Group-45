@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Software Engineer specializing in Embedded Systems, with 5-10 years of experience. Responsible for developing and optimizing firmware for embedded devices, working closely with hardware engineers to ensure seamless integration. Must participate in the full development lifecycle, from requirement gathering to implementation and testing. Collaborate with cross-functional teams to troubleshoot and resolve bugs in hardware and software interfaces. Maintain detailed documentation and actively contribute to design discussions and reviews. Experience with real-time operating systems and low-level hardware programming is essential.",
+  "industry": "Technology"
+}

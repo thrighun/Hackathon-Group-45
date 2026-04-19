@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Software Engineer, 5+ years experience, React.js preferred, knowledge of Angular is a plus. Responsible for building responsive and interactive web applications that enhance user engagement and satisfaction. Collaborate with backend developers to integrate APIs and contribute to the overall architecture of applications. Utilize modern front-end technologies, including HTML5, CSS3, and JavaScript frameworks, to deliver high-quality software solutions. Conduct user testing and gather feedback to inform design decisions, ensuring applications are user-friendly and accessible. Participate in code reviews and maintain documentation for best practices. Engage in continuous learning to keep up with emerging trends and share insights with the team. Work alongside product managers and stakeholders to define specifications and scope for new features.",
+  "industry": "Retail"
+}

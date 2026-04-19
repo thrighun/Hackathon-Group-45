@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack .Net Engineer with 6 years of experience. Proficiency in .NET Core and front-end frameworks such as Angular or React is required. Should have experience in building and maintaining scalable web applications and a strong understanding of RESTful APIs and database management. Familiarity with Agile methodologies and DevOps practices is essential. Responsibilities include collaborating with cross-functional teams to develop user-friendly applications, ensuring responsiveness and performance, and conducting code reviews.",
+  "industry": "Information Technology & Services"
+}

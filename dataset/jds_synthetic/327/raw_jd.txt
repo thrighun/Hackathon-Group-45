@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Firmware Engineer specializing in IoT Devices with 4-5 years of experience. Responsible for designing, implementing, and testing firmware for various Internet of Things (IoT) applications. Work closely with product teams to gather requirements and outline technical specifications. Create robust, efficient firmware code using C/C++ and contribute to system architecture discussions. Perform system integration and testing to ensure firmware compatibility with hardware components. Monitor performance metrics and optimize firmware for better energy efficiency and functionality. Document firmware processes and develop user guides for internal and external stakeholders. Provide ongoing support and troubleshooting during firmware updates and product launches.",
+  "industry": "Information Technology & Services"
+}

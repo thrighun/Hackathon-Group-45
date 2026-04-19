@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Full Stack Developer, 6-9 years, Experience with Microservices Architecture is preferred, proficient in JavaScript frameworks, especially Node.js and React, familiarity with GraphQL is a plus.",
+  "industry": "Multinational Technology Provider"
+}

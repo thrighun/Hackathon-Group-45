@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack Developer (Node.js & React) with 3-6 years of experience. Responsible for end-to-end development of web applications, including UI design, server-side logic, and database management. Collaborate with product managers to define project requirements and timelines. Conduct thorough testing to ensure high-quality releases. Maintain documentation for the development process and system architecture. Work closely with the DevOps team to streamline deployment processes and enhance system performance.",
+  "industry": "Software Development"
+}

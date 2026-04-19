@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Front-End Developer specializing in Vue.js for a Dynamic Online Retail Platform, focusing on Progressive Web App (PWA) features, mobile-first design, and performance optimization. Responsibilities include building user-friendly interfaces that enhance customer engagement and shopping experiences, implementing responsive layouts using CSS frameworks, and collaborating with backend teams to integrate APIs. Additionally, the role requires maintaining website performance, conducting A/B testing for feature enhancements, and ensuring the application is compliant with SEO and accessibility standards.",
+  "industry": "E-commerce"
+}

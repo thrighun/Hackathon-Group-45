@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Hiring: Visual Content Specialist. Responsibilities include creating digital illustrations, developing interactive web content, and working with marketing teams to enhance online presence. Skills: Illustration software, web design, analytical thinking.",
+  "industry": "Digital Marketing"
+}

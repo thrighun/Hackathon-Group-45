@@ -1,0 +1,2 @@
+Industry: 
+python developemnt, django, flask, backend, postgresql, llm, crew ai, agentic ai

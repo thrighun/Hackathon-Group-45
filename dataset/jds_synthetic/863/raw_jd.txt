@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Developer with Experience in Angular and Bootstrap, 4 years or more",
+  "industry": "Technology Services"
+}

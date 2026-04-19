@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Data Engineer, 3+ years\n\nAs a Data Engineer, you will be responsible for designing, building, and maintaining scalable data pipelines that support our analytics and reporting needs. You will collaborate with data scientists, analysts, and other stakeholders to ensure that data is optimized for analysis and reporting. Your role will include the integration of new data sources, transformation of raw data into meaningful insights, and management of data architecture in a cloud-based environment.",
+  "industry": "Information Technology / Technology Solutions"
+}

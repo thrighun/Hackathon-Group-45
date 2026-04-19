@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Software Engineer - Node.js and Angular Developer, 6-10 years experience in web application development. The ideal candidate will be responsible for designing and implementing scalable, high-performance applications using Node.js and Angular. You will work closely with cross-functional teams to gather requirements and deliver innovative solutions that meet client needs. Your role will also involve mentoring junior developers, conducting code reviews, and ensuring the adherence to best practices in software development. Strong problem-solving skills and the ability to work collaboratively in an Agile environment are essential.",
+  "industry": "Technology"
+}

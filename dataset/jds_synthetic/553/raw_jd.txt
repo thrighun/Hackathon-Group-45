@@ -1,0 +1,4 @@
+{
+  "raw_jd": "HCLTech is seeking a dedicated QA Automation Engineer to join our dynamic testing team. The ideal candidate will be responsible for developing and executing automated test scripts to ensure the functionality and performance of our software applications. You will collaborate closely with cross-functional teams to identify areas for improvement in the automation process while maintaining high standards of quality. Our focus on innovative solutions drives us to enhance our testing framework continuously, ensuring alignment with industry best practices. This position is key to delivering efficient, high-quality software that meets client expectations across various sectors such as Financial Services, Healthcare, and Retail.",
+  "industry": "Technology"
+}

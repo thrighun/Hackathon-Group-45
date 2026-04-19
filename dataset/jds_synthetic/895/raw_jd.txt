@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Software Engineer specializing in Java Web Applications, 8 years experience required. The role involves designing, developing, and maintaining complex web applications utilizing Java frameworks and technologies. Responsibilities include collaborating with product managers and UX designers to define project scope and deliver functionalities that improve user experience. The engineer will implement RESTful APIs, ensuring data communication between front-end and back-end services. Regular code optimization and performance tuning to enhance application efficiency is expected. Familiarity with modern web technologies and frameworks like Spring and Angular is a plus. Agile methodology experience is required, and the role demands strong problem-solving skills, attention to detail, and the ability to mentor junior developers.",
+  "industry": "Software Development"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Azure Cloud Architect, experience in managing hybrid cloud environments, 8+ years",
+  "industry": "Healthcare"
+}

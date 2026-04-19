@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack JavaScript Developer with Node.js and Bootstrap CSS.",
+  "industry": "Retail"
+}

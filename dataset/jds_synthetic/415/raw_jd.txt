@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are looking for an experienced Cloud Software Engineer who has a strong background in building, testing, and maintaining cloud-native applications. The ideal candidate will be responsible for architecting and developing scalable applications tailored for cloud environments, leveraging microservices architecture and serverless computing. Applicants should also possess skills in automation and orchestration tools, allowing for greater efficiency in deployment and operations across multiple cloud platforms. Additionally, experience with implementing security best practices within cloud environments and optimizing systems for performance and cost is essential.",
+  "industry": "Technology"
+}

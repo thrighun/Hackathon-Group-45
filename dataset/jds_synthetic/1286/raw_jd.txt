@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Looking for an experienced AI/ML Product Manager with a robust background in AI strategy and product development. The ideal candidate will be responsible for defining product vision and roadmaps for AI-driven solutions, collaborating closely with engineering teams to translate business needs into technical requirements, and managing the lifecycle of AI products from ideation to launch. The role also involves conducting market research to identify new opportunities for AI applications, overseeing data collection and analysis efforts for product performance evaluation, and ensuring alignment with compliance and ethical standards in AI deployment.",
+  "industry": "Technology"
+}

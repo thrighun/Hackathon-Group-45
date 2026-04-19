@@ -1,0 +1,4 @@
+{
+  "raw_jd": "1. Proficiency in Siemens NX or SolidWorks\n2. Experience with 3D CAD modeling, assembly design, and technical drawings\n3. Knowledge of system integration for automotive electrical systems\n4. Understanding of product design lifecycle for automotive components such as engine systems, transmission systems, and electronic control units (ECUs)\n5. Familiarity with manufacturing processes including additive manufacturing, stamping, and machining\n6. Knowledge of FEA (Finite Element Analysis) and simulation tools\n7. Ability to conduct design reviews and provide constructive feedback",
+  "industry": "Automotive Engineering"
+}

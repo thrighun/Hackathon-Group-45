@@ -1,0 +1,4 @@
+{
+  "raw_jd": "UI Developer with React and Chakra UI\n\nWe are seeking a skilled UI Developer to join our dynamic team at a leading information technology & services company. In this role, you will be responsible for creating visually appealing and intuitive user interfaces that enhance user experience. You will work closely with product managers, designers, and back-end teams to deliver high-quality web applications.\n\nResponsibilities include the development of clean and maintainable code, optimizing application performance, and ensuring cross-device compatibility. You will also participate in code reviews and contribute to building a collaborative team environment. Staying updated with industry trends and best practices will be essential to ensure the use of the latest technologies in our projects.",
+  "industry": "Information Technology & Services"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "React Developer with a focus on enterprise-grade applications, minimum 5 years' experience.\n\nWe are seeking a skilled React Developer to join our dynamic team in the Information Technology sector. The ideal candidate will have considerable experience in building high-performance web applications and integrating them with various backend services. Responsibilities will include collaborating with designers and backend developers to create seamless user experiences, implementing state management solutions, and optimizing applications for maximum speed and efficiency. A successful candidate will also take charge of integration tasks that involve APIs and microservices, ensuring that all components work harmoniously. Teamwork, problem-solving, and the ability to share knowledge with junior developers are essential. Familiarity with DevOps practices and CI/CD workflows will be a significant advantage.",
+  "industry": "Information Technology"
+}

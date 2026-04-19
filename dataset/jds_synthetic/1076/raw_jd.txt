@@ -1,0 +1,4 @@
+{
+  "raw_jd": "UI/UX Engineer with a focus on React JS and User-Centric Design\n\nWe are seeking a talented UI/UX Engineer to join our dynamic team at a leading Multinational Technology Provider. In this role, you will be responsible for designing and implementing user interfaces for web applications, integrating user feedback for continuous improvement, and collaborating closely with developers and product managers to create a seamless user experience. You will utilize your skills in React JS to bring innovative designs to life while ensuring responsiveness and functionality across different devices.",
+  "industry": "Multinational Technology Provider"
+}

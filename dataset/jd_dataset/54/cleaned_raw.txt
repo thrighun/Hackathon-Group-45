@@ -1,0 +1,2 @@
+Industry: 
+%3Cscript%3Ealert('XSS')%3C%2Fscript%3E React JS Demo

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Cloud Backend Engineer specializing in Node.js, Express, MongoDB, and AWS. 5+ years of experience required, with a focus on serverless architectures and microservices.",
+  "industry": "Information Technology & Services"
+}

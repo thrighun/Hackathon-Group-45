@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack Developer, JavaScript, 4 years, with a focus on Node.js and Express, to build scalable web applications.",
+  "industry": "Multinational Technology Provider"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "C, C++ Embedded Software Engineer, 4-6 years experience",
+  "industry": "Embedded Systems"
+}

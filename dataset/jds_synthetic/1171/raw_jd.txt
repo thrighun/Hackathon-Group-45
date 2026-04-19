@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Frontend Engineer specializing in Vue.js with a focus on user experience (UX) design for eCommerce applications. This is a senior-level position.",
+  "industry": "Retail"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack Application Developer\nIn this role, you will be responsible for developing comprehensive web applications that encompass both client-side and server-side functionality. You will work closely with UX/UI designers and backend teams to create seamless user experiences and maintain high-quality code standards. Your duties will include designing database schemas, developing APIs, and ensuring cross-browser compatibility. Additionally, you will troubleshoot and optimize existing applications, work with version control tools, and implement automated testing protocols.",
+  "industry": "Information Technology / Technology Services"
+}

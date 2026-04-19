@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are seeking a motivated Software Engineer with a strong software development background and experience in web application frameworks. The ideal candidate should be proficient in Java, React, or Ruby on Rails and have a passion for building responsive and scalable web applications. Candidates should be eager to learn about data analysis, machine learning technologies, and cloud services.",
+  "industry": "Technology"
+}

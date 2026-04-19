@@ -1,0 +1,4 @@
+{
+  "raw_jd": "1. Proficiency in SolidWorks or Autodesk Inventor. 2. Experience in 2D and 3D CAD modeling, including complex assemblies and sheet metal design. 3. Familiarity with thermal and structural analysis tools. 4. Experience in the design of electronic housing and components for Automotive Applications such as infotainment systems and electrical distribution. 5. Understanding of prototyping techniques and rapid manufacturing methods. 6. Knowledge of DFM (Design for Manufacturing) and DFA (Design for Assembly) principles.",
+  "industry": "Automotive Engineering"
+}

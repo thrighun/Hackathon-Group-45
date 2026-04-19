@@ -1,0 +1,4 @@
+{
+  "raw_jd": "C++ application development, RCP framework, 3-6 years",
+  "industry": "Multinational Technology Provider"
+}

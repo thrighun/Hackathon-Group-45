@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Frontend Engineer specializing in Vue.js for a dynamic retail company focusing on innovative online shopping experiences. This position requires 6 years of experience in front-end development, with a strong emphasis on building performant and scalable web applications. The role will involve collaborating with UX/UI designers and product managers to create an intuitive user interface for our eCommerce platform. You will also take an active role in code refactoring and optimizing existing codebases, as well as developing new features. You will be responsible for ensuring cross-browser compatibility and performance optimization while providing guidance and support to junior developers.",
+  "industry": "Retail"
+}

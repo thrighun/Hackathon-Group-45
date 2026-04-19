@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Front-End Developer with Angular expertise, experience in ecommerce application development, and a strong background in UX/UI design, minimum 5 years in web development.",
+  "industry": "Retail"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Software Engineer, Vue.js, 2-3 years experience. The role requires developing interactive user interfaces for web applications, collaborating with back-end developers to integrate APIs, and ensuring responsive design compatibility across devices. The ideal candidate should have experience with unit testing frameworks, and knowledge of agile methodologies. Strong communication skills and the ability to work in a fast-paced environment are essential.",
+  "industry": "Multinational Technology Provider"
+}

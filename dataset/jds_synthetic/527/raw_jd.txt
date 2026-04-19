@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Front-End Software Engineer, 2-6 years, experience in mobile-responsive design preferred",
+  "industry": "E-commerce"
+}

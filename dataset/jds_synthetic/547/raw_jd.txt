@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Software Engineer - Java Microservices, 5-7 years, Experience in Cloud Native Development preferred, expertise in Microservices architecture, API design, and working with tools like Kafka and ActiveMQ.",
+  "industry": "Information Technology"
+}

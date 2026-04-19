@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Software Engineer specializing in Microservices Architecture with 3-6 years of experience in the technology sector. Responsible for developing and optimizing scalable microservices, ensuring high availability and performance of applications. Collaborate closely with product management and UX teams to develop innovative solutions that meet customer needs. Implement CI/CD pipelines and maintain robust documentation for services. Mentor junior developers and conduct performance reviews to foster skill development. Analyze system architecture and provide recommendations for improvements. Monitor and troubleshoot system performance, utilizing tools to ensure system integrity and performance standards.",
+  "industry": "Technology"
+}

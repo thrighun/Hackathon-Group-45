@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are seeking a skilled Data Scientist with a strong background in AI/ML methodologies to develop innovative predictive analytics solutions. The ideal candidate will work on designing models for data-driven decision-making and predictive modeling, focusing on anomaly detection and customer segmentation. Responsibilities include integrating machine learning models into production systems, conducting statistical analysis on large datasets, and collaborating with stakeholders to define business requirements and translate them into technical solutions. Proficiency in R and SQL is essential, along with experience in data visualization tools to communicate insights effectively.",
+  "industry": "Technology"
+}

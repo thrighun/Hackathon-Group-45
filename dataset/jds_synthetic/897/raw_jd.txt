@@ -1,0 +1,4 @@
+{
+  "raw_jd": "ServiceNow Technical Consultant with 3+ years of experience in optimizing and implementing IT service management solutions.",
+  "industry": "Information Technology"
+}

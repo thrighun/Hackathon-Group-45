@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Front-End Engineer with 4 years of experience in building dynamic user interfaces for mobile applications in the retail sector. Mid-level position focused on enhancing user experience and performance optimization.",
+  "industry": "Retail"
+}

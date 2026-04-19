@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are seeking innovative individuals with a solid background in software development and experience in API design and integration for our fast-paced environment. Candidates should be proficient in JavaScript/TypeScript and have knowledge of frameworks such as React or Angular. A passion for emerging technologies and a desire to expand their skill set in areas like DevOps and machine learning is essential.",
+  "industry": "Technology"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Software Engineer specializing in Firmware Development for IoT Devices with a focus on Python and C programming, 5-7 years experience in the tech industry.",
+  "industry": "Internet of Things (IoT)"
+}

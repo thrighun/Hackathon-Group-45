@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Frontend Engineer specializing in Vue.js and Machine Learning Integration. 5+ years of experience required. \n\nYour role will focus on building dynamic web applications that utilize Vue.js for responsive design while implementing machine learning features to enhance user interactions. You will collaborate with cross-functional teams, including data scientists and backend developers, to create innovative solutions. Candidates should be comfortable with developing scalable applications, employing modern development practices, and maintaining high performance across all platforms.",
+  "industry": "Information Technology & Services"
+}

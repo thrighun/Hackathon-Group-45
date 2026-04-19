@@ -1,0 +1,4 @@
+{
+  "raw_jd": "UI/UX Web Designer",
+  "industry": "Technology"
+}

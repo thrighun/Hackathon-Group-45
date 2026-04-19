@@ -1,0 +1,4 @@
+{
+  "raw_jd": "AI Solutions Architect, 3-7 years\n\nJoin our leading technology company as an AI Solutions Architect, where you will design and implement innovative AI-driven solutions tailored to our clients' needs. You will work alongside product managers and software engineers to create scalable architectures that enhance user experience and drive business outcomes. Your role will involve analyzing existing systems, defining system architecture and specifying technical requirements. Additionally, you will mentor junior architects, lead technical discussions, and contribute to thought leadership within the AI domain.\n\nYou will also engage with clients to understand their strategic goals and present effective AI strategies, ensuring alignment with their business objectives. Your insights into emerging technologies will help shape our AI roadmap and drive continuous improvement across our product offerings.",
+  "industry": "Multinational Technology Provider"
+}

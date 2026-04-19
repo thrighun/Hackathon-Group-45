@@ -1,0 +1,2 @@
+Industry: 
+QA Engineer Manual testing, Web testing, Backend testing

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Engineer with Vue.js and Bootstrap CSS expertise, tasked with creating dynamic web applications for a leading e-commerce platform.",
+  "industry": "E-commerce"
+}

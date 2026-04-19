@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Join our team as a Software Testing Specialist where you will be instrumental in ensuring the quality and performance of our software applications. You will collaborate closely with development teams to design and implement comprehensive testing strategies. Your primary responsibilities will include crafting detailed test plans, executing test scenarios, and performing performance testing on new features. You will be involved in user acceptance testing (UAT) and work to ensure that applications meet specified requirements and standards before deployment. In addition, you will maintain thorough documentation of test results and provide feedback to development teams. Experience with cloud-based environments and API testing will be essential in this role. Continuous improvement of testing practices and participation in Agile ceremonies will be expected as you work to enhance our quality assurance processes.",
+  "industry": "Software Development"
+}

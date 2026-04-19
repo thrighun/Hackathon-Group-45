@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Embedded Software Engineer specializing in C and C++ with a focus on IoT devices, 4-6 years of experience, location Hyderabad",
+  "industry": "Technology"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Job Title: Front-End Engineer \u2013 Angular, TypeScript, HTML\nLocation: Switzerland\nCountry: Switzerland\nExperience Required: 2+ years\n\nPrimary Skills: Angular, TypeScript, HTML\nSecondary Skills: UX/UI Principles\n\nJob Description:\nOur company is a leading player in technology solutions, dedicated to empowering businesses with cutting-edge innovation. With a team of over 200,000 professionals worldwide, we specialize in delivering transformative digital solutions across various sectors, including financial services, healthcare, and retail. \n\nAs a Front-End Engineer, you will be responsible for creating responsive and dynamic web applications using Angular and TypeScript. You will collaborate closely with UX/UI designers to build engaging user interfaces that enhance user experience and drive customer engagement.",
+  "industry": "Technology Services"
+}

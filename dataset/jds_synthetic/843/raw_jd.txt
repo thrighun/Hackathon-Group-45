@@ -1,0 +1,4 @@
+{
+  "raw_jd": "senior python engineer, flask, fastapi, microservices, nosql databases, machine learning, cloud integration, system architecture",
+  "industry": "Information Technology/IT Services"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Front-end Engineer, 5 years' experience, proficiency in TypeScript, RESTful API integration, and experience in building responsive UIs for SaaS applications.",
+  "industry": "Technology"
+}

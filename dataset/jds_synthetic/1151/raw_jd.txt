@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Front-End Software Engineer specializing in Vue.js, 2-4 years experience, responsible for building user-friendly web applications. Candidates will work closely with designers and back-end developers to create smooth user experiences and execute engaging front-end interactions. The role involves optimizing applications for performance and scalability, debugging and resolving issues, and ensuring high-quality code through testing and peer reviews.",
+  "industry": "Technology"
+}

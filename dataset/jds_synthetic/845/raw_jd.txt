@@ -1,0 +1,4 @@
+{
+  "raw_jd": "1. Proficiency in Autodesk Inventor or SolidWorks 2. Experience with advanced 3D modeling, simulation, and prototyping 3. Familiarity with HVAC system design and optimization 4. Background in materials selection for automotive applications such as plastics, metals, and composites 5. Understanding of manufacturing techniques including additive manufacturing, CNC machining, and assembly processes 6. Knowledge of FMEA (Failure Mode and Effects Analysis) and DFM (Design for Manufacturing) principles.",
+  "industry": "Automotive Engineering"
+}

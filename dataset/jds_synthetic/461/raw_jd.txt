@@ -1,0 +1,4 @@
+{
+  "raw_jd": "1. Expertise in Siemens NX or SolidWorks\n2. Background in creating complex 3D models, assemblies, and detailed drawings in CAD software\n3. Familiarity with Electrical and Electronic Systems in Automotive\n4. Experience in Thermal Management and HVAC Systems design for vehicles\n5. Understanding of prototyping and testing methodologies in automotive development\n6. Knowledge of FEA (Finite Element Analysis) and CFD (Computational Fluid Dynamics) applications\n7. Ability to work with suppliers and manufacturers to ensure design feasibility and manufacturability",
+  "industry": "Automotive Engineering"
+}

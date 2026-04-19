@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Python Software Engineer, 4-6 years, Django, Cloud Services, GraphQL APIs, Data Pipelines",
+  "industry": "Software Development"
+}

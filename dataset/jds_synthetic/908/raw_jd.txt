@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Developer (Vue.js & Bootstrap) with a focus on e-commerce solutions. Responsible for designing and implementing user-friendly interfaces for a wide array of retail applications. Collaborate with UX/UI designers and backend teams to refine application functionality and enhance user experience. Ensure responsive design across multiple devices and platforms. Implement performance optimizations and conduct thorough testing to ensure high-quality deliverables. Stay updated with the latest web technologies and trends to ensure the application remains competitive. Participate actively in agile ceremonies and contribute to sprint planning and retrospectives. Mentor junior developers and contribute to team knowledge sharing sessions.",
+  "industry": "Retail"
+}

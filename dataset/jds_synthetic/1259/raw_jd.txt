@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Python Embedded Systems Engineer with 4 years experience\n\nDevelop, test, and deploy embedded applications using Python and C within IoT environments. Work alongside hardware engineers to integrate software with devices and sensors. Enhance system performance and reliability through continuous optimization of existing code. Identify and rectify issues in embedded systems through rigorous debugging and testing processes. Engage in architectural discussions to influence software design. Conduct regular code reviews to promote adherence to coding standards and best practices. Create comprehensive documentation for developed software and processes to ensure clarity and assist future team members.",
+  "industry": "Embedded Systems and IoT"
+}

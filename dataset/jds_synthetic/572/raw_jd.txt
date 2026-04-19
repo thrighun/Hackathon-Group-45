@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Job Title: Full Stack Developer\nLocation: Arizona (Client Location)\nCountry: India\nExperience Required: 4 - 8 years\n\nPrimary Skills: React__Node.js__MongoDB__Express\nSecondary Skills: Agile Methodologies\n\nJob Description:\nFull Stack Developer with expertise in building scalable web applications and working with both frontend and backend technologies.",
+  "industry": "Technology Solutions"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are seeking a talented AI/ML Solutions Architect with a strong background in developing scalable AI-driven platforms. The ideal candidate will be responsible for designing and overseeing the implementation of innovative AI solutions for data analysis, predictive analytics, and intelligent automation. This role involves collaborating with various stakeholders to establish technical requirements and ensuring that AI models align with business strategies. The candidate should have experience in supervising the deployment of machine learning models into production environments, driving technical best practices, managing data workflows, and facilitating the agile development process. Required expertise includes familiarity with cloud computing, machine learning operations (MLOps), and a solid grasp of software architecture principles. Experience required is 5-10 years.",
+  "industry": "Multinational Technology Provider"
+}

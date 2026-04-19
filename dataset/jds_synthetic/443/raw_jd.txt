@@ -1,0 +1,4 @@
+{
+  "raw_jd": "quality assurance engineer, automation frameworks, API testing, Agile, Python, testing tools, Git, performance monitoring, defect tracking, teamwork, documentation",
+  "industry": "Technology"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Embedded Software Engineer specializing in IoT Systems Development\n\nAs a Senior Embedded Software Engineer, you will be responsible for building robust and efficient embedded software solutions for Internet of Things (IoT) applications. You will work on integrating various hardware components and sensors to create seamless interactions between devices. Collaborating closely with product managers and UX designers, you will translate requirements into functional software implementation. Your tasks will include optimizing algorithms for low power consumption, contributing to system architecture decisions, and ensuring scalable solutions. You will also lead mentoring sessions for junior engineers and drive best practices in software development.",
+  "industry": "Technology"
+}

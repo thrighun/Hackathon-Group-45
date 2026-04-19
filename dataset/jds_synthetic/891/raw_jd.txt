@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack Developer with a focus on JavaScript frameworks, particularly Vue.js and Express, seeking candidates with 3-6 years of experience in web application development.",
+  "industry": "Multinational Technology Provider"
+}

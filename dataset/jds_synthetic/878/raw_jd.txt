@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Data Verification Specialist, strong analytical skills. English and Hindi required.",
+  "industry": "Information Technology Services"
+}

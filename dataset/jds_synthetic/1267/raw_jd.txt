@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are seeking a talented AI/ML Research Scientist with a focus on natural language processing (NLP) and conversational AI systems. The ideal candidate will leverage their background in linguistics and machine learning to develop state-of-the-art AI models for language understanding and generation. Responsibilities include researching and designing algorithms for enhancing language models, experimenting with novel approaches in dialogue systems, and optimizing existing models through data-driven methodologies. The candidate will also work on integrating these models into various applications, contributing to the overall advancement of AI capabilities within the organization. Experience 3-10 years.",
+  "industry": "Artificial Intelligence and Machine Learning"
+}

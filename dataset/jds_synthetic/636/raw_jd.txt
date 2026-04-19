@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Cloud Solutions Architect for Healthcare Applications, responsible for designing and implementing scalable cloud environments with a focus on security and compliance in the healthcare sector, 8+ years of experience required.",
+  "industry": "Healthcare"
+}

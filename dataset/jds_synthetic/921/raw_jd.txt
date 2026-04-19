@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Salesforce Administrators\n\nAs a Salesforce Administrator, you will play a crucial role in managing and optimizing our Salesforce platform to support the sales and marketing teams of our multinational technology services organization. You will be responsible for user management, data management, reporting, and ensuring that our Salesforce environment is aligned with business processes and goals. Your collaboration with stakeholders will help enhance the functionality and usability of the Salesforce platform, leading to greater efficiency and productivity.\n\nYou will also troubleshoot system issues, implement best practices, and train users on Salesforce functionalities. The role requires a proactive approach to support platform upgrades and continual improvement initiatives to leverage Salesforce capabilities effectively.",
+  "industry": "Information Technology / Multinational Technology Services"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Embedded Systems Architect specializing in IoT applications with 10+ years of experience in device firmware and system design. This role requires the ability to define and implement innovative embedded solutions tailored for smart devices. The architect will lead the technical design discussions and create architectural frameworks to support firmware scalability and IoT integration. The position demands collaboration with hardware engineers and software developers to establish device communication protocols and optimize performance. Additionally, the architect will ensure compliance with industry standards and best practices in embedded systems. A focus on security and reliability in firmware design is critical, along with the capability to mentor a team of embedded engineers and drive continuous improvement initiatives.",
+  "industry": "Technology"
+}

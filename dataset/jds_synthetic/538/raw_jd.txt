@@ -1,0 +1,4 @@
+{
+  "raw_jd": "AI Product Manager with 6+ years of experience in technology and a strong background in AI/ML applications, specifically in product development and lifecycle management.",
+  "industry": "Multinational Technology Provider"
+}

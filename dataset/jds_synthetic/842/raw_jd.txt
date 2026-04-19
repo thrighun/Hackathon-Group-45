@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Engineer specializing in Vue.js and Tailwind CSS. Responsible for developing visually appealing and user-friendly web applications. Collaborate with product teams and backend developers to implement modern web solutions. Create and maintain reusable code and libraries for future use, ensuring high performance and scalability. Optimize applications for maximum speed and responsiveness. Work closely with designers to translate prototypes into functional web pages. Participate in code reviews, ensure best practices are followed, and mentor junior developers. Stay updated with the latest web technologies and trends in frontend development.",
+  "industry": "Information Technology / Technology Solutions"
+}

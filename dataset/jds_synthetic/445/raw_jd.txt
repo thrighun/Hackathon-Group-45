@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Candidates must possess significant experience in building and optimizing AI-driven predictive analytics platforms, focusing on data modeling, algorithm development, and performance tuning. Responsibilities include constructing robust analytics frameworks, utilizing various data sources to derive insights, and creating visualization tools for end-users. Additionally, the role involves collaborating with data scientists to implement machine learning algorithms effectively, working closely with business stakeholders to translate requirements into technical solutions, and ensuring the scalability and maintainability of the predictive models in production environments.",
+  "industry": "Technology"
+}

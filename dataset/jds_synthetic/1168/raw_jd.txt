@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack Developer with Angular and Bootstrap, experience with RESTful APIs, 3-6 years",
+  "industry": "Multinational Technology Provider"
+}

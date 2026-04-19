@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Developer specializing in Vue.js and Nuxt.js with 3-6 years of experience, responsible for building interactive user interfaces for high-traffic web applications in a fast-paced environment.",
+  "industry": "Multinational Technology Provider"
+}

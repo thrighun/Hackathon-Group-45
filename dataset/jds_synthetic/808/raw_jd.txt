@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack Developer with Node.js and Tailwind CSS\n\nAs a Full Stack Developer, you will take part in designing, developing, and deploying scalable web applications for our retail clients. Utilizing your expertise in both front-end and back-end technologies, you will collaborate closely with UX/UI designers and product teams to create seamless user experiences that enhance customer engagement and drive sales. Your role will involve writing clean, maintainable code, integrating with various APIs, and optimizing application performance to provide an exceptional end-user experience.",
+  "industry": "Retail"
+}

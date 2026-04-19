@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Frontend Engineer with Vue.js and Nuxt.js, 5-7 years experience",
+  "industry": "Multinational Technology Provider"
+}

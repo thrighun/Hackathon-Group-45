@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Engineer specializing in Vue.js and Bootstrap for a leading eCommerce platform. The ideal candidate will focus on creating and optimizing engaging web applications that cater to online shopping experiences. Responsibilities include developing user-friendly eCommerce interfaces, collaborating with designers and backend developers to implement seamless shopping workflows, ensuring mobile responsiveness, and utilizing best practices for web performance. The candidate should also participate in regular code reviews, contribute to design discussions, and stay informed about emerging trends in eCommerce technologies.",
+  "industry": "eCommerce"
+}

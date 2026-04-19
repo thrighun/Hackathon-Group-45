@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Software Engineer - Embedded Systems, experience 5-10 years\nDesign, develop, and test embedded software applications using C and C++. Work closely with hardware engineers to integrate software with embedded systems. Optimize software for performance, memory usage, and power consumption. Analyze system performance and provide recommendations for improvements. Participate in the full software development lifecycle, including requirements gathering, design, implementation, testing, and maintenance. Develop unit tests and contribute to continuous integration processes. Mentor junior engineers and provide technical leadership within the team. Document software designs, testing methodologies, and results. Keep abreast of the latest advancements in embedded systems technology.",
+  "industry": "Technology"
+}

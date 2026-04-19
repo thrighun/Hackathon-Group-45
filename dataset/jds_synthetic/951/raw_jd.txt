@@ -1,0 +1,4 @@
+{
+  "raw_jd": "1. Proficiency in Siemens NX or SolidWorks \n2. Experience with 3D CAD Design, including Modeling, Simulation, and Prototyping \n3. Familiarity with Electrical and Electronics Integration in Automotive Systems is a plus \n4. Experience in designing automotive components such as Braking Systems, Safety Features, and Electrical Assemblies \n5. Strong understanding of automotive regulatory standards and testing procedures \n6. Knowledge of Finite Element Analysis (FEA) and Computational Fluid Dynamics (CFD) \n7. Ability to work within a project timeline and meet engineering deliverables.",
+  "industry": "Automotive Engineering"
+}

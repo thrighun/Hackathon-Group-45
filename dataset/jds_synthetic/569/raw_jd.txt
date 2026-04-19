@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Frontend Engineer specializing in Vue.js and Nuxt.js, 3-6 years\n\nWe are seeking a talented Frontend Engineer to join our dynamic team at a leading multinational technology provider. The ideal candidate will have a solid background in developing user-focused applications using Vue.js and Nuxt.js. You will be responsible for building innovative web solutions, collaborating with cross-functional teams, and ensuring exceptional user experiences across our products.\n\nAs a Frontend Engineer, you will work closely with designers and backend developers to create seamless interfaces that delight users. Your work will contribute to the overall performance and responsiveness of our web applications, helping our company maintain its position at the forefront of technology solutions.",
+  "industry": "Multinational Technology Provider"
+}

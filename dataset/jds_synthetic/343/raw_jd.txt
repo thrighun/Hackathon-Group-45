@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack Developer, Node.js, Angular, 4 years",
+  "industry": "Multinational Technology Provider"
+}

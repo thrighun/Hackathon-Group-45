@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Primary Skills  Quality Assurance Automation  Secondary Skills  Performance Testing (Competent)  Designation  Lead QA Engineer  Experience  Job Family  Quality Assurance  Job  Technical Lead  JobDescription  'Skills : JMeter, Cucumber, TestNG, Python'",
+  "industry": "Software Development"
+}

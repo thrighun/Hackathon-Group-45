@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are seeking a talented AI/ML Research Scientist with a strong background in developing and optimizing machine learning algorithms for large-scale data analysis. The ideal candidate will be responsible for conducting innovative research to advance our AI capabilities, creating novel algorithms for predictive analytics, and collaborating with the engineering team to implement these solutions effectively. This role involves leveraging statistical models, engaging in data-driven decision-making, and validating results through rigorous experimentation. The candidate should possess experience in developing AI solutions from inception to deployment, with an emphasis on improving algorithm performance and accuracy. Experience 3-10 years.",
+  "industry": "Multinational Technology Provider"
+}

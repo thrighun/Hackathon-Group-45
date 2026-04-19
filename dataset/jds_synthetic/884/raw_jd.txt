@@ -1,0 +1,4 @@
+{
+  "raw_jd": "1. Proficiency in Siemens NX or SolidWorks\n2. Experience with 3D CAD Parametric modeling, detailing, assembly, and sheet metal design\n3. Hands-on experience in Thermal Management Systems for automotive applications will be a plus\n4. Knowledge in the design of Automotive Electrical Systems such as Wiring Harnesses and Control Units\n5. Familiarity with manufacturing processes including Additive Manufacturing, CNC Machining, and Composite Materials\n6. Understanding of FEA (Finite Element Analysis) and its application in design validation",
+  "industry": "Automotive Engineering"
+}

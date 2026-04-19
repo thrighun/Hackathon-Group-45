@@ -1,0 +1,4 @@
+{
+  "raw_jd": "user interface designer with experience in Figma and Bootstrap, 3-6 years",
+  "industry": "Multinational Technology Provider"
+}

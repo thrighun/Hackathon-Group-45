@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Individuals with significant expertise in AI/ML model evaluation and deployment, focusing on performance optimization, anomaly detection in AI applications, and designing robust data validation pipelines. The role involves collaborating with data scientists to assess model performance, implementing feedback loops for model improvement, and working on regulatory compliance for AI applications. Experience in A/B testing methodologies and familiarity with machine learning interpretability tools is preferred. Candidates should have 3-10 years of experience.",
+  "industry": "Technology"
+}

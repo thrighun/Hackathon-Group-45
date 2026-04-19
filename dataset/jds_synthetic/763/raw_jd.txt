@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Embedded Software Engineer, 4-6 years experience in IoT applications",
+  "industry": "Embedded Systems"
+}

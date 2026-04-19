@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are seeking an innovative UI/UX Designer to join our dynamic team. In this role, you will focus on crafting intuitive and visually compelling user interfaces for our web applications. Your primary responsibility will be to understand user needs and create designs that enhance the overall user experience. If you are a creative thinker with a passion for design and usability, this position is ideal for you. We are looking for someone who is proficient in design tools and has a keen interest in the latest design trends and technologies. Ultimately, you will play a key role in delivering an exceptional digital experience that aligns with our brand's vision.",
+  "industry": "Technology"
+}

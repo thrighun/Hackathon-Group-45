@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Front-End Software Engineer with Vue.js and Bootstrap, 2-6 years\n\nWe are seeking a skilled Front-End Software Engineer specializing in Vue.js and Bootstrap to join our dynamic team. In this role, you will be responsible for designing and implementing responsive web applications, ensuring seamless integration with back-end services while working collaboratively in an agile environment. You will contribute to the enhancement of user experience and interface, while also ensuring high performance across different devices and platforms.",
+  "industry": "Technology Provider"
+}

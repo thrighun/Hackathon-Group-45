@@ -1,0 +1,4 @@
+{
+  "raw_jd": "JavaScript development, frontend, React, Node.js, MongoDB, AWS, machine learning, chatbot integration",
+  "industry": "Information Technology / Software Development Services"
+}

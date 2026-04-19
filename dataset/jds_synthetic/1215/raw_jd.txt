@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Software Engineer - Backend Services, 6 years experience with Java and Microservices architecture, experience with Kotlin preferred.",
+  "industry": "Multinational Technology Provider"
+}

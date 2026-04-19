@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Java Developer \u2013 Cloud-Based Solutions specializing in AI and Data Engineering. Responsible for implementing scalable Java applications that leverage AI technologies and big data processing frameworks. Collaborate with data engineers and analysts to streamline data pipelines and enhance data accessibility. Optimize system performance through effective programming techniques and architectural solutions. Participate in designing and deploying cloud-native applications on Amazon Web Services (AWS) or Google Cloud Platform (GCP). Conduct thorough testing and quality assurance on developed modules to ensure reliability and security. Document application features and technical specifications comprehensively to support future development cycles. Remain current with industry advancements and best practices in software development and AI integration.",
+  "industry": "Information Technology & Services"
+}

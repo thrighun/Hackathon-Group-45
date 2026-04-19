@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Data Engineer, Exp should 10+ years and location is either New York, NY or San Francisco, CA",
+  "industry": "Technology"
+}

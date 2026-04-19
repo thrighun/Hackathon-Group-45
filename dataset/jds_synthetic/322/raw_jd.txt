@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Front-End Engineer, Angular, 6 years\nDevelop and enhance user interfaces for scalable web applications leveraging Angular framework. Collaborate with backend developers to integrate RESTful services and ensure seamless data flow. Conduct code reviews and mentor junior developers in best practices. Architect components to ensure reusability and optimize performance for mobile and desktop browsers. Participate in sprint planning and agile ceremonies while driving quality assurance processes. Remain informed on industry trends and evolving practices to continuously improve code quality and application performance.",
+  "industry": "Multinational Technology Provider"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Looking for a Lead Software Engineer with deep expertise in Java and Microservices architecture. The ideal candidate will have 7+ years of experience in delivering enterprise-level applications and will be proficient in leveraging Spring Cloud and Angular. Responsibilities include architecting microservices, implementing best practices for system design, and mentoring junior developers. Strong experience with NoSQL databases and performance optimization techniques is required. Familiarity with CI/CD tools and DevOps practices is essential, along with a solid understanding of container orchestration using Kubernetes.",
+  "industry": "Information Technology"
+}

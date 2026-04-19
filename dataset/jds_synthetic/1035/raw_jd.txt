@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack Developer with React and Node.js, 3-6 years\nJoin our dynamic team as a Full Stack Developer specializing in React and Node.js to design and implement robust web applications. You will work in a collaborative environment, managing both front-end and back-end development tasks. Your expertise will help us enhance our product offerings and deliver exceptional user experiences. Responsibilities include developing new features, integrating APIs, and optimizing application performance. This role is ideal for someone who thrives in innovation and is eager to tackle exciting challenges in the tech industry.",
+  "industry": "Technology"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Software Engineer - Java at Tech Innovators Inc. Location: Bangalore or Hyderabad. Responsibilities include developing, testing, and maintaining enterprise-level applications using Java, Spring Framework, and RESTful APIs. Requires 3+ years of experience in Java development, proficiency in relational databases, strong analytical skills, and teamwork capabilities. Optional: experience with reactive programming, CI/CD tools, and familiarity with MongoDB or Cassandra.",
+  "industry": "Software Development"
+}

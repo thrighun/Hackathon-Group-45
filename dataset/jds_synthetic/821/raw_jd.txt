@@ -1,0 +1,4 @@
+{
+  "raw_jd": "data engineer, cloud computing, big data processing, data pipelines",
+  "industry": "Information Technology & Services"
+}

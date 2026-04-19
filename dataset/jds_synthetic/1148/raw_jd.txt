@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Primary Skills  Software Quality Assurance\nSecondary Skills  Performance Testing(Competent)\nDesignation  Lead Quality Analyst\nExperience  Job Family  Quality Assurance\nJob  Technical Lead\nJobDescription  \"Skills : JMeter, Cucumber, TestNG\"",
+  "industry": "Multinational Technology Provider"
+}

@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Frontend Engineer, 5 years experience, digital marketing solutions",
+  "industry": "Marketing Technology"
+}

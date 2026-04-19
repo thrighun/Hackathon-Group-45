@@ -1,0 +1,4 @@
+{
+  "raw_jd": "1. Proficiency in SolidWorks or Autodesk Inventor 2. Experience in 3D CAD parametric modeling, assembly design, and simulation 3. Familiarity with design of automotive components such as braking systems, fuel systems, and drivetrain systems 4. Knowledge of vehicle dynamics and performance analysis 5. Understanding of manufacturing techniques including additive manufacturing and composite materials 6. Solid grasp of engineering principles related to mechanical systems and thermal management 7. Ability to create technical documentation and specifications for engineering proposals",
+  "industry": "Automotive Engineering"
+}

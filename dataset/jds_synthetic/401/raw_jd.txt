@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Shopify Developer, Strong Backend Skills, 4 years\n\nAs a Shopify Developer, you will be responsible for creating and customizing Shopify online stores, ensuring a seamless shopping experience for customers. You will work in collaboration with designers and product managers to develop robust backend solutions that enhance store performance and functionality. This role requires a deep understanding of Shopify's Liquid templating language and its API integrations, as well as experience with database management and server-side logic.\n\nKey responsibilities include modifying existing themes, building custom apps, and ensuring that our ecommerce site is optimized for speed and performance. You will also be involved in integrating payment gateways and managing product catalogs efficiently. The ideal candidate will have a strong grasp of ecommerce strategies and be able to implement SEO best practices across the platform.",
+  "industry": "Ecommerce"
+}

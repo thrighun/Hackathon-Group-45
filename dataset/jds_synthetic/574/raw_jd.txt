@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Software Quality Assurance Analyst - Functional Testing, Mobile Testing, API Testing\n\nAs a QA Analyst, you will be responsible for ensuring the quality of our software products by performing functional, mobile, and API testing. You will work closely with development teams to validate the performance and reliability of applications through thorough testing and documentation. Your role will involve designing test plans, executing tests, and reporting findings to ensure we deliver high-quality software solutions. The ideal candidate will have a passion for quality and a keen eye for detail.",
+  "industry": "Information Technology / Technology Solutions"
+}

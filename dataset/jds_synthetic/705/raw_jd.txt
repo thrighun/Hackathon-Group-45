@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Front-End Engineer with Vue.js and Bootstrap, 5+ years required. This role demands expertise in building dynamic user interfaces for web applications. You will work closely with UX/UI designers and back-end developers to ensure seamless integration and functionality. Your responsibilities will include optimizing application performance, creating reusable components, and implementing responsive designs. You should have a deep understanding of web standards and accessibility guidelines, along with the ability to mentor junior developers and collaborate in an Agile environment.",
+  "industry": "Multinational Technology Provider"
+}

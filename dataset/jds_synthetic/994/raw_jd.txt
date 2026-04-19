@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack Developer with React and Node.js, focusing on modern web application development and API integration.",
+  "industry": "Information Technology / Technology Solutions"
+}

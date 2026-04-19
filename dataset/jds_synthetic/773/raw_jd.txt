@@ -1,0 +1,4 @@
+{
+  "raw_jd": "UI/UX Developer with React and Next.js, 3-6 years\n\nAs a UI/UX Developer, you will be responsible for creating dynamic interfaces and enhancing user experience for our web applications. You will work closely with product managers, designers, and developers to translate user needs into functional applications. Your role will include prototyping and refining user flows and wireframes, ensuring that our applications are not only visually appealing but also highly usable. You will also be tasked with conducting user testing sessions and gathering feedback to iterate and improve our designs. The ideal candidate should be adept at using design tools like Sketch or Figma and have a strong understanding of usability testing methodologies. You will also need to stay abreast of emerging web technologies and trends to continually elevate the user experience.",
+  "industry": "Technology Provider"
+}

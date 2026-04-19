@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Backend Developer, Node.js, 3+ years\n\nJoin a leading software company focused on creating innovative solutions for businesses worldwide. We are seeking a skilled Senior Backend Developer with expertise in Node.js to design and implement scalable backend systems that enhance our product offerings. \n\nThe ideal candidate will have a strong passion for building reliable and efficient applications, collaborating effectively within a dynamic team environment, and contributing to all phases of the software development lifecycle.",
+  "industry": "Software Development"
+}

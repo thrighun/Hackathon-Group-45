@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are seeking a skilled AI Product Manager to lead the development and deployment of innovative AI-driven solutions. The ideal candidate will have experience in overseeing the lifecycle of AI applications, including defining product vision, gathering requirements, and prioritizing features based on market needs. This role involves working closely with engineering teams to ensure alignment between business goals and technical execution, as well as driving the integration of machine learning algorithms into user-centered products. The AI Product Manager will analyze user feedback and market trends to inform product enhancements and maintain a competitive edge.",
+  "industry": "Technology"
+}

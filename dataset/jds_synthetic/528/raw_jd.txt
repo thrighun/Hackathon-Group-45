@@ -1,0 +1,4 @@
+{
+  "raw_jd": "AWS Cloud Architect, specializing in scalable cloud infrastructure and hybrid solutions, 10+ years",
+  "industry": "Life Sciences and Healthcare"
+}

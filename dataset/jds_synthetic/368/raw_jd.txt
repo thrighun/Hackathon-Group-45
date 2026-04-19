@@ -1,0 +1,4 @@
+{
+  "raw_jd": "employee engagement analytics, predictive insights, sentiment analysis, workforce modeling",
+  "industry": "Multinational Technology Provider"
+}

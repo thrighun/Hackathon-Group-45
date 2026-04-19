@@ -1,0 +1,3 @@
+Industry: 
+Primary Skills Software Testing Secondary Skills Accessibility testing(Competent) Designation Senior Tester Experience Job Family Testing / Validation Job Technical Lead JobDescription "
+Skills : Appium, API Automation using Rest Assured, Selenium"

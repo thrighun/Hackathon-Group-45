@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are seeking a skilled Data Scientist with a strong focus on AI/ML applications to drive innovative data solutions. The ideal candidate will have experience in designing algorithms for predictive analytics, building and maintaining models for data-driven decision-making, and collaborating with stakeholders to define project requirements. Key responsibilities include analyzing large data sets to extract meaningful insights, developing machine learning models to enhance business processes, and implementing data visualization techniques to communicate findings effectively. The candidate should have 3-10 years of experience in data science or related fields.",
+  "industry": "Technology"
+}

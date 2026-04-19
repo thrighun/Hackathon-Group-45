@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Software Engineer - Cloud Applications at TechWave. Location: Bangalore or Pune. Responsibilities include developing innovative cloud-based solutions, collaborating with product managers to define and analyze technical requirements, and building applications using Java, Spring Boot, and Node.js. Requires 3+ years of experience in software development, strong coding skills, familiarity with microservices architecture, and knowledge of CI/CD processes. Optional: experience with serverless architectures, RESTful APIs, and Agile methodologies.",
+  "industry": "Information Technology"
+}

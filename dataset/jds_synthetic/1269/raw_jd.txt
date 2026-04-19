@@ -1,0 +1,4 @@
+{
+  "raw_jd": "full stack developer with focus on angular and node.js",
+  "industry": "Information Technology & Services"
+}

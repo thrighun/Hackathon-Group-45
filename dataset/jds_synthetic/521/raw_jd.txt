@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Software Engineer - Full Stack Java Developer, 6-9 years, Experience with AWS is a plus, proficient in Angular, Hibernate, and building RESTful APIs.",
+  "industry": "Information Technology"
+}

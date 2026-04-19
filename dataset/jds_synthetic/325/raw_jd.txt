@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Full Stack Developer, 5-7 years, Vue.js, Node.js, GraphQL",
+  "industry": "Software Development"
+}

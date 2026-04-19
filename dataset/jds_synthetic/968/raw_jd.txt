@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Python API Engineer, Flask, 3-5 years experience. Responsible for creating high-performance backend services and API development using Python and Flask framework. Collaborate with frontend developers and UX designers to enhance user experience and optimize application performance. Implement security best practices for data protection and API security. Participate in Agile ceremonies, contributing to planning, reviews, and retrospectives. Conduct regular code reviews and provide guidance to junior developers. Engage with stakeholders to gather requirements and translate them into technical specifications. Maintain API documentation and ensure alignment with industry standards. Troubleshoot and resolve API-related issues and optimize existing services for scalability. Stay informed about emerging technologies and industry trends for continuous improvement.",
+  "industry": "Technology"
+}

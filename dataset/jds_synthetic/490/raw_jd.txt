@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Software Engineer \u2013 AI Solutions\n\nAs a Senior Software Engineer in AI Solutions, you will focus on developing and optimizing machine learning models and algorithms to create innovative software products. You will be responsible for designing user-friendly interfaces and integrating AI capabilities into existing applications, enhancing functionality and user experience. Your role will involve collaborating with product managers and designers to ensure alignment with business goals and user needs. Additionally, you will conduct thorough testing and validation of AI models to ensure accuracy and performance. You should also mentor junior engineers and help drive best practices in software development and AI integration.",
+  "industry": "Information Technology / Artificial Intelligence Solutions"
+}

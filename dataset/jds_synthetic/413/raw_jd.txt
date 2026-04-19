@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Machine Learning Engineer with Generative AI Focus\n\nWe are seeking a skilled Machine Learning Engineer with expertise in generative AI to join our innovative team. In this role, you will be responsible for designing and implementing machine learning solutions that leverage generative AI technologies across various applications. You will collaborate closely with cross-functional teams to enhance existing products and develop new features driven by AI advancements. Your primary responsibilities will include developing robust ML pipelines, optimizing models for production use, and integrating AI capabilities into scalable software solutions.",
+  "industry": "Information Technology Services"
+}

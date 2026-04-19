@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Front-End Developer specializing in React.js, 3-6 years experience",
+  "industry": "Information Technology"
+}

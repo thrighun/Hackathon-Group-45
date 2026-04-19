@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Seeking an experienced Data Scientist with a strong background in advanced analytics and data-driven decision-making to develop innovative models and strategies in a fast-paced technology environment. The ideal candidate will utilize statistical analysis, machine learning, and big data technologies to extract valuable insights from complex datasets. Key responsibilities include designing predictive models, conducting exploratory data analysis, and providing actionable recommendations to both technical and non-technical stakeholders. The successful candidate will also collaborate with software engineers to integrate analytical solutions into operational workflows and ensure the scalability of advanced analytics capabilities.",
+  "industry": "Multinational Technology Provider"
+}

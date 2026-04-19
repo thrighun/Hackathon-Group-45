@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Python, Embedded Systems, Firmware Engineer, 2+ years experience\nDevelop and maintain embedded firmware using Python for various hardware platforms. Collaborate closely with cross-functional teams to design, implement, and test new features for embedded devices. Optimize firmware for performance, security, and reliability. Create and execute testing protocols to validate firmware functionality. Document development processes, design specifications, and test results. Stay informed about emerging technologies in embedded systems and incorporate relevant advancements into firmware solutions.",
+  "industry": "Multinational Technology Provider"
+}

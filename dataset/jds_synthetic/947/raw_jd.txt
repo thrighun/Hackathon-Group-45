@@ -1,0 +1,4 @@
+{
+  "raw_jd": "1. Proficiency in SolidWorks or Autodesk Inventor 2. Experience with 3D CAD modeling, assembly, and design for manufacturability 3. Familiarity with Electrical Systems Integration in automotive products 4. Experience in the design of automotive components such as Brake Systems, Fuel Systems, and Electrical Subsystems 5. Understanding of material selection and its impact on design and manufacturing processes 6. Knowledge of simulation tools for testing and validating designs.",
+  "industry": "Automotive Engineering"
+}

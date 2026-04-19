@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Java Software Engineer, 5-7 years, Spring, Kubernetes, GraphQL APIs, Full Stack Development",
+  "industry": "Information Technology"
+}

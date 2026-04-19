@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Front-End Engineer, 4 years experience, B2B SaaS industry specializing in project management solutions. Will be responsible for designing and implementing user interfaces for web applications, ensuring a seamless and intuitive user experience. Collaborate closely with UX/UI designers and backend developers to create scalable and efficient software solutions. Write reusable, testable, and efficient code using modern JavaScript frameworks. Participate in code reviews, provide mentorship to junior developers, and engage in agile development practices. Stay informed about new web technologies and best practices to integrate into the development process.",
+  "industry": "Software as a Service (SaaS)"
+}

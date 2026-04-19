@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Seeking a skilled Automotive Systems Integration Engineer with a minimum of 3 years of experience in the automotive industry. The ideal candidate will have expertise in integrating various automotive systems, including Electrical, Control Systems, Infotainment, and Safety Systems. Familiarity with automotive communication protocols such as CAN, LIN, and Ethernet is essential. Experience in software tools for simulations and system design (e.g., MATLAB/Simulink) is preferred. The role requires collaboration with cross-disciplinary teams to ensure coherent system functionality and compliance with industry standards. Strong problem-solving abilities and an understanding of automotive regulatory requirements are a plus.",
+  "industry": "Automotive"
+}

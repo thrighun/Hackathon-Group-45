@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Lead Software Engineer, 7 years experience, Microservices and Kotlin knowledge needed",
+  "industry": "Multinational Technology Provider"
+}

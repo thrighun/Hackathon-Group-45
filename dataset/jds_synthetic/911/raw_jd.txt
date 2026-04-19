@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack Java Developer, 4 years experience, ReactJS and Node.js expertise",
+  "industry": "Software Development"
+}

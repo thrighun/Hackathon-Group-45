@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Software Engineer - Game Development\n\nWe are seeking a passionate Software Engineer to join our dynamic game development team. The ideal candidate will be responsible for creating engaging gameplay experiences by writing high-quality code in C++ and contributing to the overall game design. \n\nCollaborate closely with designers, artists, and other engineers to develop innovative game features and mechanics. You will also be involved in the full software development lifecycle, from concept through to deployment. \n\nYour role will include optimizing games for performance, debugging issues, and integrating feedback from playtesting to enhance player experiences. You will actively participate in code reviews and contribute to promoting best coding practices within the team.\n\nStay abreast of emerging technologies and trends in gaming to keep our titles competitive and exciting for players.",
+  "industry": "Video Game Development"
+}

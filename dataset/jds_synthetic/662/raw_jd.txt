@@ -1,0 +1,4 @@
+{
+  "raw_jd": "C, C++ Firmware Developer 4-5 years experience. Design and implement firmware for various microcontrollers in consumer electronics. Work closely with hardware teams to verify hardware functionality and software compatibility. Write clear, maintainable, and efficient firmware code. Conduct testing, validation, and debugging of firmware on embedded devices. Manage firmware updates and contribute to product design discussions. Monitor performance and diagnose issues in existing firmware. Engage in continuous learning of firmware development tools and methodologies. Provide technical documentation and support for firmware-related queries.",
+  "industry": "Consumer Electronics"
+}

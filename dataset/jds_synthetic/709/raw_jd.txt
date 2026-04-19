@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Machine Learning Engineer - Predictive Analytics Development in Data Science Sector. Responsible for designing, building, and implementing scalable machine learning models to support predictive analytics projects. Collaborate with data analysts and product teams to translate business requirements into technical solutions. Develop and optimize data pipelines for model training and validation. Conduct experiments to improve model accuracy and performance. Create and maintain documentation for model development and deployment processes. Ensure best practices in coding and data handling are followed. Stay abreast of current trends and advancements in machine learning algorithms and tools. Participate in technical discussions and provide insights on data-driven decision making.",
+  "industry": "Information Technology / Data Science"
+}

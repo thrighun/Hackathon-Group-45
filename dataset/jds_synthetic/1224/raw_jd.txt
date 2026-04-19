@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Software Engineer specializing in Microservices and Cloud Applications with 4-7 years of experience in the technology sector.",
+  "industry": "Technology"
+}

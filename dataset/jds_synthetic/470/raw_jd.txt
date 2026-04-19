@@ -1,0 +1,4 @@
+{
+  "raw_jd": "software engineer - front-end, 2-6 years\n\nAs a Front-End Software Engineer, you will play a pivotal role in building high-quality web applications for our clients in the tech industry. You will be responsible for designing user-friendly interfaces and ensuring optimal performance across all platforms. You will collaborate with a cross-functional team, including UX/UI designers and backend developers, to implement innovative features and enhance user experience. Additionally, you will contribute to maintaining code quality through best practices and participate in team discussions and brainstorming sessions to generate creative solutions.",
+  "industry": "Technology"
+}

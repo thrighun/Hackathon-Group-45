@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Full Stack Developer with a focus on Ecommerce applications. Minimum of 6 years of overall development experience, with at least 3 years specifically in the ecommerce sector. Expertise in JavaScript frameworks, RESTful APIs, and microservices architecture. Experience with cloud-based deployments and mobile application integration.",
+  "industry": "Retail"
+}

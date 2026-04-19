@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Machine Learning Operations Engineer\n\nAs a Machine Learning Operations Engineer, you will be responsible for the deployment, monitoring, and optimization of machine learning models in production environments. Your role will focus on ensuring the seamless integration of machine learning workflows with existing IT infrastructure. This position requires collaboration with data scientists and software engineers to implement best practices in model management and performance tracking. You will also automate the data pipelines and workflows needed for the machine learning lifecycle.",
+  "industry": "Technology"
+}

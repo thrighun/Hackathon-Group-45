@@ -1,0 +1,2 @@
+Industry: 
+react develoepr with nextjs. CSS . ecommerce implementation , CMS integration

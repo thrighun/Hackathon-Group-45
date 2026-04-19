@@ -1,0 +1,4 @@
+{
+  "raw_jd": "We are seeking a talented Data Analyst to join our team at a leading multinational technology provider. The ideal candidate will be responsible for analyzing and interpreting complex data sets to help drive business decisions. The role involves collaborating with various departments to understand their data needs, developing reports and dashboards, and presenting findings to stakeholders. Candidates should have a strong analytical background and experience with data visualization tools and statistical software.",
+  "industry": "Multinational Technology Provider"
+}

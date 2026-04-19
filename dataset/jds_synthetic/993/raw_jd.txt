@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Java Developer, 4-6 years experience, RESTful APIs, Spring Cloud, Location: Bangalore or Hyderabad",
+  "industry": "Information Technology Services"
+}

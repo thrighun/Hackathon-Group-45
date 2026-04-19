@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Senior Front-End Engineer, 6+ years experience, React 17.x or higher version\nDevelop interactive and responsive web applications using React 17.x or higher. Collaborate with product managers and backend developers to deliver seamless user experiences. Write modular, reusable, and maintainable front-end code. Conduct user testing and gather feedback to iterate on designs and functionalities. Participate in sprint planning and daily stand-ups as a key member of an Agile development team. Identify and fix performance bottlenecks within applications. Mentor junior developers and lead technical discussions. Research and implement best practices in front-end development and contribute to the team's knowledge base.",
+  "industry": "E-commerce"
+}

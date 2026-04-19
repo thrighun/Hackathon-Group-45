@@ -1,0 +1,4 @@
+{
+  "raw_jd": "ServiceNow Solutions Architect, 3 years + experience, responsible for overseeing the design and implementation of ServiceNow solutions within a technology-driven organization. This role requires collaboration with stakeholders to gather requirements, architect scalable solutions, and ensure successful deployment. The Solutions Architect will also mentor junior engineers, conduct training sessions, and lead project teams in best practices for ServiceNow utilization. Additionally, they will analyze system performance and recommend enhancements for continuous improvement.",
+  "industry": "Information Technology"
+}

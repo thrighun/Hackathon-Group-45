@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Cloud Services Backend Engineer specializing in Python, Django, and MongoDB. 4+ years of experience in cloud-based solutions.",
+  "industry": "Information Technology / Cloud Computing"
+}

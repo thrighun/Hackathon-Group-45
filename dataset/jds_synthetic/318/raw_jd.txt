@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Cloud Data Engineer with AI Integration Experience for Data Analytics Project",
+  "industry": "Information Technology & Services"
+}

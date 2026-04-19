@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Looking for an experienced Automotive Systems Integration Engineer with over 3 years of experience in the automotive industry, specializing in the integration of electronic systems within vehicles. Key focus areas include advanced driver-assistance systems (ADAS), infotainment systems, and vehicle communication networks. The ideal candidate should have hands-on experience with CAN, LIN, or Ethernet networks and familiarity with ECU (Electronic Control Unit) development. Proficient in using simulation tools and techniques to validate system performance is essential. Knowledge in electromagnetics and automotive safety standards (ISO 26262) is preferred. Ability to collaborate with cross-functional teams to ensure seamless integration of hardware and software components.",
+  "industry": "Automotive"
+}

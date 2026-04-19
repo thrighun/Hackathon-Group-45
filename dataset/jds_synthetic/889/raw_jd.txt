@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Full Stack Developer with a focus on Vue.js. Responsible for transforming an existing React application into a Vue-based solution.",
+  "industry": "Technology"
+}

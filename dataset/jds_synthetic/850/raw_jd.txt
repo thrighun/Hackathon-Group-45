@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Dynamic and detail-oriented software engineer with experience in the development and maintenance of web applications. Proficiency in Java, Ruby, or Go is highly desirable. Applicants should possess a solid foundation in software architecture principles and be eager to expand their knowledge in emerging technologies such as microservices and machine learning.",
+  "industry": "Technology"
+}

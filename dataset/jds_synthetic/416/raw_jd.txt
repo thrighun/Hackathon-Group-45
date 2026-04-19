@@ -1,0 +1,4 @@
+{
+  "raw_jd": "mobile application developer, react native, javascript, mobile platforms, api integration, agile development, bootstrap, user experience, version control",
+  "industry": "Information Technology / Mobile Application Development"
+}

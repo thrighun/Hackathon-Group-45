@@ -1,0 +1,11 @@
+{
+  "base_model": "google/gemma-2b-it",
+  "model_type": "combined-lora",
+  "adapters": {
+    "gen": "thrighun/jd-generator",
+    "edit": "thrighun/jd-editor"
+  },
+  "task": "text-generation",
+  "language": ["en"],
+  "tags": ["job-description", "lora", "gemma", "peft"]
+}

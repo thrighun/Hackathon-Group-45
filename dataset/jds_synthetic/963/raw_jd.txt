@@ -1,0 +1,4 @@
+{
+  "raw_jd": "Machine Learning Engineer, Exp should 10+ years and location is either Chicago, IL or Alameda, CA",
+  "industry": "Technology"
+}
